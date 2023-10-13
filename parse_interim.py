@@ -7,9 +7,9 @@ from typing import List
 class Product:
     company: str
     product: str
-    companyURL: str = "http://placeholder.url"
-    productURL: str = "http://placeholder.url"
-    imageURL: str = "http://placeholder.url"
+    companyURL: str = ""
+    productURL: str = ""
+    imageURL: str = ""
 
 
 @dataclass
