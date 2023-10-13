@@ -1,111 +1,158 @@
-import React, { useCallback, useState, MouseEvent } from "react";
+"use client";
+import React, {
+  useEffect,
+  useState,
+  MouseEvent,
+  DragEvent,
+  DragEventHandler,
+} from "react";
 import ReactFlow, {
-  applyEdgeChanges,
-  applyNodeChanges,
+  MarkerType,
   ReactFlowProvider,
-  MiniMap,
-  Background,
-  OnNodesChange,
-  OnEdgesChange,
-  NodeMouseHandler,
+  useReactFlow,
   Node,
   Edge,
+  NodeTypes,
+  OnNodesChange,
+  applyNodeChanges,
+  NodeMouseHandler,
+  NodeChange,
+  OnEdgesChange,
+  EdgeChange,
+  applyEdgeChanges,
 } from "reactflow";
 
 import CustomNode from "./CustomNode";
-
-import {
-  nodes as initialNodes,
-  edges as initialEdges,
-} from "./initialElements";
-import useAnimatedNodes from "./useAnimatedNodes";
-import useExpandCollapse from "./useExpandCollapse";
+import useAutoLayout, { Direction } from "./useAutoLayout";
+import * as initialElements from "./initialElements";
 
 import "reactflow/dist/style.css";
 import styles from "./styles.module.css";
 
-const proOptions = { account: "paid-pro", hideAttribution: true };
-
-const nodeTypes = {
+const nodeTypes: NodeTypes = {
   custom: CustomNode,
 };
 
-type ExpandCollapseExampleProps = {
-  treeWidth?: number;
-  treeHeight?: number;
-  animationDuration?: number;
+const proOptions = {
+  account: "paid-pro",
+  hideAttribution: true,
 };
 
-function ReactFlowPro({
-  treeWidth = 220,
-  treeHeight = 100,
-  animationDuration = 300,
-}: ExpandCollapseExampleProps = {}) {
-  const [nodes, setNodes] = useState<Node[]>(initialNodes);
-  const [edges, setEdges] = useState<Edge[]>(initialEdges);
+const defaultEdgeOptions = {
+  type: "smoothstep",
+  markerEnd: { type: MarkerType.ArrowClosed },
+  pathOptions: { offset: 5 },
+};
 
-  const { nodes: visibleNodes, edges: visibleEdges } = useExpandCollapse(
-    nodes,
-    edges,
-    { treeWidth, treeHeight },
-  );
-  const { nodes: animatedNodes } = useAnimatedNodes(visibleNodes, {
-    animationDuration,
-  });
+type ExampleProps = {
+  direction?: Direction;
+};
 
-  const onNodesChange: OnNodesChange = useCallback(
-    (changes) => setNodes((nds) => applyNodeChanges(changes, nds)),
-    [],
-  );
-  const onEdgesChange: OnEdgesChange = useCallback(
-    (changes) => setEdges((eds) => applyEdgeChanges(changes, eds)),
-    [],
-  );
+type NodeData = {
+  label: string;
+};
 
-  const onNodeClick: NodeMouseHandler = useCallback(
-    (_, node) => {
-      setNodes((nds) =>
-        nds.map((n) => {
-          if (n.id === node.id) {
-            return {
-              ...n,
-              data: { ...n.data, expanded: !n.data.expanded },
-            };
-          }
+/**
+ * This example shows how you can automatically arrange your nodes after adding child nodes to your graph.
+ */
+function ReactFlowPro({ direction = "TB" }: ExampleProps) {
+  // this hook handles the computation of the layout once the elements or the direction changes
+  const { fitView } = useReactFlow();
 
-          return n;
-        }),
-      );
-    },
-    [setNodes],
-  );
+  useAutoLayout({ direction });
+  const [nodes, setNodes] = useState<Node<NodeData>[]>(initialElements.nodes);
+  const [edges, setEdges] = useState<Edge[]>(initialElements.edges);
+
+  // this function adds a new node and connects it to the source node
+  const createConnection = (sourceId: string) => {
+    // create an incremental ID based on the number of elements already in the graph
+    const targetId: string = `${nodes.length + 1}`;
+
+    const targetNode: Node<NodeData> = {
+      id: targetId,
+      data: { label: `Node ${targetId}` },
+      position: { x: 0, y: 0 }, // no need to pass a position as it is computed by the layout hook
+      type: "custom",
+      style: { opacity: 0 },
+    };
+
+    const connectingEdge: Edge = {
+      id: `${sourceId}->${targetId}`,
+      source: sourceId,
+      target: targetId,
+      style: { opacity: 0 },
+    };
+
+    setNodes((nodes) => nodes.concat([targetNode]));
+    setEdges((edges) => edges.concat([connectingEdge]));
+  };
+
+  // this function is called once the node from the sidebar is dropped onto a node in the current graph
+  const onDrop: DragEventHandler = (evt: DragEvent<HTMLDivElement>) => {
+    // make sure that the event target is a DOM element
+    if (evt.target instanceof Element) {
+      // from the target element search for the node wrapper element which has the node id as attribute
+      const targetId = evt.target
+        .closest(".react-flow__node")
+        ?.getAttribute("data-id");
+
+      if (targetId) {
+        // now we can create a connection to the drop target node
+        createConnection(targetId);
+      }
+    }
+  };
+
+  // this function is called when a node in the graph is clicked
+  // enables a second possibility to add nodes to the canvas
+  const onNodeClick: NodeMouseHandler = (
+    _: MouseEvent,
+    node: Node<NodeData>,
+  ) => {
+    // on click, we want to add create a new node connection the clicked node
+    createConnection(node.id);
+  };
+
+  const onNodesChange: OnNodesChange = (changes: NodeChange[]) => {
+    setNodes((nodes) => applyNodeChanges(changes, nodes));
+  };
+
+  const onEdgesChange: OnEdgesChange = (changes: EdgeChange[]) => {
+    setEdges((edges) => applyEdgeChanges(changes, edges));
+  };
+
+  // every time our nodes change, we want to center the graph again
+  useEffect(() => {
+    fitView({ duration: 400 });
+  }, [nodes, fitView]);
 
   return (
-    <ReactFlow
-      fitView
-      nodes={animatedNodes}
-      edges={visibleEdges}
-      onNodesChange={onNodesChange}
-      onEdgesChange={onEdgesChange}
-      onNodeClick={onNodeClick}
-      proOptions={proOptions}
-      nodeTypes={nodeTypes}
-      nodesDraggable={false}
-      nodesConnectable={false}
-      className={styles.viewport}
-      zoomOnDoubleClick={false}
-      elementsSelectable={false}
-    >
-      <Background />
-      <MiniMap />
-    </ReactFlow>
+    <div className={styles.container}>
+      <ReactFlow
+        className={styles.reactFlow}
+        proOptions={proOptions}
+        nodeTypes={nodeTypes}
+        nodes={nodes}
+        edges={edges}
+        onNodesChange={onNodesChange}
+        onEdgesChange={onEdgesChange}
+        fitView
+        onDrop={onDrop}
+        onNodeClick={onNodeClick}
+        // newly added edges get these options automatically
+        defaultEdgeOptions={defaultEdgeOptions}
+        minZoom={-Infinity}
+        maxZoom={Infinity}
+      />
+    </div>
   );
 }
 
-export function Tree(props: ExpandCollapseExampleProps) {
+// as we are accessing the internal React Flow state in our component, we need to wrap it with the ReactFlowProvider
+export const Tree = (props: ExampleProps) => {
   return (
     <ReactFlowProvider>
       <ReactFlowPro {...props} />
     </ReactFlowProvider>
   );
-}
+};
