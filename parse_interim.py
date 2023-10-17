@@ -1,64 +1,74 @@
-import re
-from dataclasses import dataclass, field
-from typing import List
-
+from dataclasses import dataclass, field, asdict
+from typing import List, Optional
+import json
 
 @dataclass
 class Product:
     company: str
     product: str
-    companyURL: str = ""
-    productURL: str = ""
-    imageURL: str = ""
-
+    company_url: Optional[str] = None
+    product_url: Optional[str] = None
+    image_url: Optional[str] = None
 
 @dataclass
 class Subgroup:
     name: str
-    products: List[Product] = field(default_factory=list)
-
+    products: List[Product]
 
 @dataclass
 class Group:
     title: str
     description: str
-    subgroups: List[Subgroup] = field(default_factory=list)
+    subgroups: List[Subgroup]
 
+@dataclass
+class Tree:
+    title: str
+    description: str
+    groups: List[Group]
 
-# Parsing function
-def parse_txt(txt_data: str) -> Group:
-    lines = txt_data.split("\n")
-    group_data = Group("", "", [])
+def parse_raw_text(file_path):
+    with open(file_path, 'r') as f:
+        lines = f.readlines()
 
-    subgroup_data = Subgroup(name="", products=[])
+    # Initialize variables
+    current_group = None
+    current_subgroup = None
+    current_products = []
+    groups = []
+
+    # Loop through each line to parse
     for line in lines:
+        line = line.strip()
         if line.startswith("Group:"):
-            group_data.title = line.split("Group:")[1].strip()
+            if current_group:
+                groups.append(current_group)
+            title = line.split("Group:")[1].strip()
+            current_group = Group(title, "", [])
+            current_subgroup = None
+            current_products = []
         elif line.startswith("Description:"):
-            group_data.description = line.split("Description:")[1].strip()
+            desc = line.split("Description:")[1].strip()
+            if current_group:
+                current_group.description = desc
         elif line.startswith("Subgroup:"):
-            if subgroup_data:  # If there's existing subgroup_data, append it
-                group_data.subgroups.append(subgroup_data)
-
-            subgroup_data = Subgroup(line.split("Subgroup:")[1].strip(), [])
+            if current_subgroup:
+                current_group.subgroups.append(current_subgroup)
+            name = line.split("Subgroup:")[1].strip()
+            current_subgroup = Subgroup(name, [])
         elif line.startswith("- [ ]"):
-            product_name = line.split("- [ ]")[1].strip()
-            company, product = (
-                product_name.split(" ") if " " in product_name else (product_name, "")
-            )
-            subgroup_data.products.append(Product(company, product))
+            company_line = line.split("- [ ]")[1].strip()
+            product = Product(company_line, "")
+            current_subgroup.products.append(product)
 
-    if subgroup_data:
-        group_data.subgroups.append(subgroup_data)
+    if current_group:
+        groups.append(current_group)
 
-    return group_data
+    tree = Tree("Root", "Root Description", groups)
 
+    return tree
 
 if __name__ == "__main__":
-    filename = "eln.txt"
-    with open(filename, "r") as f:
-        data = f.read()
-    parsed_data = parse_txt(data)
-    with open(filename.replace(".txt", ".json"), "w") as f:
-        f.write(str(parsed_data))
-    print(parsed_data)
+    tree = parse_raw_text('raw.md')
+    json_str = json.dumps(asdict(tree), indent=4)
+    print(json_str)

@@ -6,7 +6,10 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "eslint . --ext .js,.jsx,.ts,.tsx",
+    "lint:fix": "eslint . --ext .js,.jsx,.ts,.tsx --fix",
+    "format": "prettier '**/*.{cjs,js,jsx,ts,tsx,md,json}' --check",
+    "format:fix": "prettier '**/*.{cjs,js,jsx,ts,tsx,md,json}' --write"
   },
   "dependencies": {
     "@headlessui/react": "^1.7.17",

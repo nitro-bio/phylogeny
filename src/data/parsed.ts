@@ -1,5 +1,5 @@
 import { TreeSchema } from "./schema";
 
-import { mockData } from "../../test/mock_data";
+import { raw } from "./raw";
 
-export const parsed = TreeSchema.parse(mockData);
+export const parsed = TreeSchema.parse(raw);

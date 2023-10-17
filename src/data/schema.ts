@@ -3,9 +3,9 @@ import { z } from "zod";
 const ProductSchema = z.object({
   company: z.string(),
   product: z.string(),
-  company_url: z.string().url(),
-  product_url: z.string().url(),
-  image_url: z.string().url(),
+  company_url: z.string().url().nullable(),
+  product_url: z.string().url().nullable(),
+  image_url: z.string().url().nullable(),
 });
 export type Product = z.infer<typeof ProductSchema>;
 
