@@ -22,9 +22,15 @@ const GroupSchema = z.object({
 });
 export type Group = z.infer<typeof GroupSchema>;
 
+const CategorySchema = z.object({
+  title: z.string(),
+  groups: z.array(GroupSchema),
+});
+export type Category = z.infer<typeof CategorySchema>;
+
 export const TreeSchema = z.object({
   title: z.string(),
   description: z.string(),
-  groups: z.array(GroupSchema),
+  categories: z.array(CategorySchema),
 });
 export type Tree = z.infer<typeof TreeSchema>;

@@ -1,0 +1,1529 @@
+Category: Experiment
+Group: ELN
+Description: Write freeform protocols and experiment plans in a rich text editor, record unstructured and small structured datasets, collaborate with others and track edits, search pages, and timestamp/sign pages for legal and IP purposes.
+Subgroup: Small Molecule
+Companies/Products: 
+- [ ] CDD
+  - [ ] CDD Vault
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Notebook
+- [ ] Labguru
+  - [ ] ELN
+- [ ] molsoft
+  - [ ] ICM-Scarab
+- [ ] Scicord
+  - [ ] Scicord ELN/LIMS
+- [ ] revvity signals
+  - [ ] Signals Notebook
+Subgroup: Biologics
+Companies/Products:
+- [ ] Benchling
+  - [ ] Notebook
+- [ ] Dotmatics
+  - [ ] Protein Metrics
+- [ ] Genemod
+  - [ ] Notebook
+- [ ] sapio
+  - [ ] Sapio ELN
+Subgroup: Automation/Regulated
+Companies/Products:
+- [ ] Biosero
+  - [ ] Green Button Go Lab Experience
+- [ ] DASSAULT SYSTEMS
+  - [ ] BIOVIA Workbook
+- [ ] LabVentage
+  - [ ] LabVantage ELN
+- [ ] LabTwin
+  - [ ] Digital Lab Assistant
+- [ ] LabVoice
+  - [ ] LabVoice Smart Device
+Subgroup: General/Uncategorized
+Companies/Products:
+- [ ] Arxspan
+  - [ ] Arxspan
+- [ ] Descign
+  - [ ] Descign
+- [ ] Dotmatics
+  - [ ] LabArchives ELN for Research
+- [ ] LAB FORWARD
+  - [ ] LabForward LabFolder
+- [ ] Microsoft Notion Atlassian
+  - [ ] OneNote/Notion/Atlassian
+- [ ] eLabNext
+  - [ ] eLab Journal
+- [ ] Limmi
+  - [ ] Limmi Platform
+- [ ] SciNote
+  - [ ] ELN Notebook
+- [ ] Colabra
+  - [ ] Colabra
+- [ ] Scispot
+  - [ ] Lab Operating System
+- [ ] Labii
+  - [ ] Labii ELN
+- [ ] Kaleidoscope
+  - [ ] Kaleidoscope Platform
+Group: Experiment/Protocol Design
+Description: Assists with experiment design by providing templates, enabling development and validation of reagents/tools (e.g., primers), designing assays testing many parameters, and/or developing statistical analysis plans.
+Subgroup: Chemistry
+Companies/Products: 
+- [ ] ACD/Labs
+  - [ ] Spectrus Platform
+- [ ] CDD
+  - [ ] CDD Vault
+- [ ] Chemaxon
+  - [ ] Design Hub
+- [ ] Chemaxon
+  - [ ] Reactor
+- [ ] Revvity signals
+  - [ ] Signals Notebook
+Subgroup: Biology
+Companies/Products: 
+- [ ] Benchling
+  - [ ] Molecular Biology
+- [ ] Botmatics
+  - [ ] Geneious
+- [ ] Dotmatics
+  - [ ] Omiq and Cytapex
+- [ ] Dotmatics
+  - [ ] SnapGene
+- [ ] GENEMOD
+  - [ ] Molecular Biology
+- [ ] molsoft molecules in silico
+  - [ ] ICM Bio
+- [ ] sapio sciences
+  - [ ] Sapio ELN
+- [ ] revvity signals
+  - [ ] Signals Notebook
+- [ ] torx connected chemistry
+  - [ ] Trox Design
+Subgroup: Automation/High-throughput
+Companies/Products: 
+- [ ] ARTIFICIAL
+  - [ ] Assistants
+- [ ] BIOSERO A BICO COMPANY
+  - [ ] Green Button Go Lab Experience
+- [ ] Ganymede
+  - [ ] Ganymede Bio
+- [ ] LABFELLOWS
+  - [ ] LabFellows Cloud
+- [ ] RADIX
+  - [ ] Easel Protocol Builder
+- [ ] Synthace
+  - [ ] Digital Experiment Platform
+- [ ] CHEMSPEED TECHNOLOGIES
+  - [ ] Autosuite
+- [ ] Waters
+  - [ ] OneLab
+- [ ] GILSON
+  - [ ] Gilson Software
+- [ ] Automata
+  - [ ] Automata LINQ Cloud
+- [ ] revvity signals
+  - [ ] VitroVivo
+Subgroup: General/Uncategorized
+Companies/Products: 
+- [ ] arivis a ZEISS company
+  - [ ] arivis Hub
+- [ ] NETRIAS
+  - [ ] Netrias Combinatorial Design Model
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Study Design & Tracking
+- [ ] Physiomics
+  - [ ] Physiomics
+- [ ] Aq
+  - [ ] Aquarium Bio
+- [ ] Arxspan A division of Bruker
+  - [ ] Arxspan
+- [ ] UniteLabs
+  - [ ] UniteLabs Platform
+Group: LIMS (Lab Information Management System)
+Description: Collects a wide variety of small, structured datasets with accompanying metadata to enable searchability. Often conflated with a ‘lab inventory’ system because it frequently contains high-value consumable reagents or samples.
+Subgroup: Small Molecule
+Companies/Products: 
+- [ ] molsoft
+  - [ ] ICM-Scarab
+- [ ] CDD
+  - [ ] CDD Vault
+- [ ] Chemaxon
+  - [ ] Compound registration
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Direct
+- [ ] SCICORD ELN/LIMS
+  - [ ] Scicord ELN/LIMS
+Subgroup: Biologics
+Companies/Products:
+- [ ] Benchling
+  - [ ] Benchling Bioregistry
+- [ ] Dotmatics
+  - [ ] Geneious
+- [ ] Dotmatics
+  - [ ] Protein Metrics
+- [ ] CellPort Powering Breakthroughs
+  - [ ] Cellport
+- [ ] sapio sciences
+  - [ ] Sapio LIMS
+- [ ] LabKey
+  - [ ] LabKey
+Subgroup: Sample Assay as a Service/Regulated
+Companies/Products:
+- [ ] LABWARE Results Count
+  - [ ] LabWare LIMS
+- [ ] ThermiFisher SCIENTIFIC
+  - [ ] SampleManager LIMS
+- [ ] SCIGILIAN simplifying Life Science IT
+  - [ ] Scigilian Store
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Samples
+Subgroup: Automation/Regulated
+Companies/Products:
+- [ ] ThermoFisher SCIENTIFIC
+  - [ ] Watson LIMS
+- [ ] BIOSERO A BICO COMPANY
+  - [ ] Green Button Go Orchestrator
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Sample for Assay
+- [ ] ThermoFisher SCIENTIFIC
+  - [ ] Chromeleon CDS
+- [ ] RADIX
+  - [ ] Rainbow Lab Database
+- [ ] Waters
+  - [ ] Informatics and Software
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Assay
+Subgroup: General/Uncategorized
+Companies/Products:
+- [ ] ThermoFisher SCIENTIFIC
+  - [ ] Core LIMS
+- [ ] Genedata solutions in silico
+  - [ ] Biopharma Platform
+- [ ] Labguru
+  - [ ] LIMS
+- [ ] LabVantage
+  - [ ] LabVantage
+- [ ] LAB FELLOWS
+  - [ ] LabFellows Cloud
+- [ ] Aq
+  - [ ] Aquarium Bio
+- [ ] Descign
+  - [ ] Descign
+- [ ] titian
+  - [ ] Mosaic
+- [ ] Arxspan A division of Bruker
+  - [ ] Arxspan
+- [ ] eLabNext EPPENDORF GROUP
+  - [ ] eLabJournal
+- [ ] Limmi
+  - [ ] Limmi Platform
+- [ ] STARLIMS
+  - [ ] StarLIMS
+- [ ] Simplicis
+  - [ ] Ledger LIMS
+- [ ] SciNote
+  - [ ] ELN Notebook
+- [ ] Colabra
+  - [ ] Colabra
+- [ ] Opvia
+  - [ ] Opvia
+- [ ] Autoscribe INFORMATICS
+  - [ ] Matrix LIMS
+- [ ] Scispot
+  - [ ] Lab Operating System
+- [ ] Labii
+  - [ ] Labii LIMS
+- [ ] Kaleidoscope
+  - [ ] Kaleidoscope Platform
+Group: Protocol Sharing
+Description: Create and share experimental protocols, particularity between organizations, to review and comment on other protocols, track changes and version history, and ensure data reproducibility
+Subgroup: General
+Companies/Products: 
+- [ ] bioz
+  - [ ] BioZ
+- [ ] protocols.io
+  - [ ] Protocols.io
+- [ ] scifind
+  - [ ] SciFind
+- [ ] eLabNext EPPENDORF GROUP
+  - [ ] eLabJournal
+- [ ] Waters
+  - [ ] OneLab
+Subgroup: Specialized
+Companies/Products: 
+- [ ] Aq
+  - [ ] Aquarium Bio
+- [ ] Chemaxon
+  - [ ] Reactor
+- [ ] Dotmatics
+  - [ ] Omiq and Cytapex
+Group: LabOps
+Description: Streamlines lab operations with scheduled workflows, automated equipment programming, and smart tools for space planning and equipment maintenance.
+Subgroup: 
+Companies/Products: 
+- [ ] ARTIFICIAL
+  - [ ] LabOps
+- [ ] Ganymede
+  - [ ] Ganymede Bio
+- [ ] Genedata solutions in silico
+  - [ ] Biopharma Platform
+- [ ] LAB FORWARD
+  - [ ] LabForward LabOperator
+- [ ] Labguru
+  - [ ] Equipment Management
+- [ ] Dotmatics
+  - [ ] LabArchives Scheduler
+- [ ] LABFELLOWS
+  - [ ] LabFellows Cloud
+- [ ] SCIGILIAN simplifying Life Science IT
+  - [ ] Scigilian Analyze
+- [ ] ELEMENTAL MACHINES
+  - [ ] Elemental Machines
+- [ ] Benchling
+  - [ ] Benchling for Lab Automation (& device drivers)
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Equipment
+- [ ] BIOSERO A BICO COMPANY
+  - [ ] Green Button Go Scheduler
+- [ ] BIOSERO A BICO COMPANY
+  - [ ] Green Button Go Orchestrator
+- [ ] BIOSERO A BICO COMPANY
+  - [ ] Green Button Go Insights
+- [ ] RADIX
+  - [ ] Weaver Lab Compiler, Slipstream Lab Scheduler, Rainbow Lab Database
+- [ ] ThermoFisher SCIENTIFIC
+  - [ ] Chromeleon CDS
+- [ ] SCIGILIAN simplifying Life Science IT
+  - [ ] Scigilian Request
+- [ ] Aq
+  - [ ] Aquarium Bio
+- [ ] CHEMSPEED TECHNOLOGIES
+  - [ ] Arksuite
+- [ ] EQUICON
+  - [ ] niceLAB Scheduler
+- [ ] LabTwin
+  - [ ] Digital Lab Assistant
+- [ ] LabVoice
+  - [ ] LabVoice Smart Device
+- [ ] RETISOFT SMART APPROACH TO AUTOMATION
+  - [ ] Genera Scheduling Software
+- [ ] Sigsense
+  - [ ] Sigsense Platform
+- [ ] CHEMSPEED TECHNOLOGIES
+  - [ ] Autosuite
+- [ ] Xavo
+  - [ ] Xavo R3
+- [ ] PAA
+  - [ ] Overlord Scheduling Software
+- [ ] Hudson ROBOTICS
+  - [ ] Softlinx Player
+- [ ] HighRes biosolutions
+  - [ ] Cellario
+Group: Lab Inventory
+Description: Tracks inventory of lab reagents and supplies, and enables ordering/tracking of billing and orders. Often is a subset of or associated with a LIMS.
+Subgroup:
+Companies/Products: 
+- [ ] CDD
+  - [ ] CDD Vault
+- [ ] SCIGILIAN simplifying Life Science IT
+  - [ ] Scigilian Store
+- [ ] GENEMOD
+  - [ ] Inventory
+- [ ] LAB FORWARD
+  - [ ] LabForward LabRegister
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA CISPro
+- [ ] BRIOSERO A BICO COMPANY
+  - [ ] Green Button Go Orchestrator
+- [ ] QUARTZY
+  - [ ] Quartzy
+- [ ] LABFELLOWS
+  - [ ] LabFellows Cloud
+- [ ] Labguru
+  - [ ] Inventory Management
+- [ ] Labii
+  - [ ] Labii Inventory Management
+- [ ] Arxspan A division of Bruker
+  - [ ] Arxspan
+- [ ] CHEMSPEED TECHNOLOGIES
+  - [ ] Arksuite
+- [ ] eLabNext EPPENDORF GROUP
+  - [ ] eLabInventory + eLabJournal
+- [ ] Xavo
+  - [ ] Xavo R3
+- [ ] Benchling
+  - [ ] Benchling Inventory
+Group: CROs
+Description: Companies that execute drug discovery, preclinical experiments, clinical trials, and/or commercialization solutions as a service as their primary business model. This category is out-of-scope; list below is representative and non-exhaustive.
+Subgroup: Pre-Clinical/Non-Clinical Focus
+Companies/Products: 
+- [ ] ThermoFisher SCIENTIFIC
+  - [ ] PPD
+- [ ] labcorp
+  - [ ] Labcorp
+- [ ] Wuxi AppTec
+  - [ ] Wuxi ApptTec
+- [ ] charles river
+  - [ ] Charles River Laboratories
+- [ ] evotec
+  - [ ] Evotec
+- [ ] eurofins
+  - [ ] Eurofins
+Subgroup: Clinical Trial Focus
+Companies/Products: 
+- [ ] ICON
+  - [ ] ICON
+- [ ] IQVIA
+  - [ ] IQVIA
+- [ ] MEDPACE
+  - [ ] Medpace
+- [ ] parexel
+  - [ ] Parexel
+- [ ] Syneos Health
+  - [ ] Syneos Health
+Group: Marketplaces
+Description: Enables researchers and laboratory personnel to browse, search, purchase, and review laboratory equipment, supplies, and contract research services from a range of suppliers and vendors in a single location.
+Subgroup: R&D Outsourcing Services
+Companies/Products: 
+- [ ] Descign
+  - [ ] Descign
+- [ ] Contract Laboratory The Laboratory Outsourcing Network 
+  - [ ] Contract Laboratory
+- [ ] Cromatic
+  - [ ] CROmatic
+- [ ] Labs Explorer
+  - [ ] Labs Explorer
+- [ ] scientist.com
+  - [ ] Marketplace
+- [ ] ScienceExchange
+  - [ ] Science Exchange Marketplace
+Subgroup: Lab Supplies
+Companies/Products: 
+- [ ] biohippo
+  - [ ] Biohippo
+- [ ] QUARTZY
+  - [ ] Quartzy
+- [ ] ZAGENO
+  - [ ] Zageno
+Subgroup: Product Search & Comparison
+Companies/Products: 
+- [ ] bioz
+  - [ ] BioZ
+- [ ] Biocompare
+  - [ ] BioCompare
+Subgroup: Add-ons/Integrations
+Companies/Products: 
+- [ ] eLabNext EPPENDORF GROUP
+  - [ ] eLabMarketplace
+Group: Cloud Labs
+Description: Access and run experiments remotely from any location with internet access.
+Subgroup: Execute Experiments
+Companies/Products: 
+- [ ] Emerald Cloud Lab
+  - [ ] Emerald Cloud Lab
+- [ ] EARCTORIS
+  - [ ] Ulysses
+- [ ] strateos
+  - [ ] SmartLab Software
+- [ ] ENABLE MEDICINE
+  - [ ] Enable Lab
+Group: Instrumentation Control Software
+Description: Control and monitor lab equipment and instruments from a single interface, create custom experimental protocols for instrument automation, and integrate with experiment design software for streamlined instrumentation control.
+Subgroup: 
+Companies/Products: 
+- [ ] BIOSERO A BICO COMPANY
+  - [ ] Green Button Go scheduler
+- [ ] Waters
+  - [ ] Informatics and Software
+- [ ] Spaero Bio
+  - [ ] Spaero
+- [ ] RADIX
+  - [ ] Slipstream Lab Scheduler, Weaver Lab Complier, Dialect Device Directors
+- [ ] Synthace
+  - [ ] Digital Experiment Platform
+- [ ] Hudson ROBOTICS
+  - [ ] SoftLinx Lab Automation Scheduler
+- [ ] HighRes biosolutions
+  - [ ] Device Drivers
+- [ ] ARTIFICIAL
+  - [ ] Workflows
+- [ ] CHEMSPEED TECHNOLOGIES
+  - [ ] Arksuite
+- [ ] RETISOFT SMART APPROACH TO AUTOMATION
+  - [ ] Genera Scheduling Software
+- [ ] PAA
+  - [ ] Overlord Device Drivers
+Group: Clinical Data Management Software (CDMS)
+Description: Companies that capture, store, and organize clinical trial data in a HIPAA-compliant manner. This category is out-of-scope; list below is representative and non-exhaustive.
+Subgroup: 
+Companies/Products: 
+- [ ] Veeva
+  - [ ] Veeva CDMS
+- [ ] clinCapture
+  - [ ] Captivate EDC + Virtual Data Capture
+- [ ] REDCap Research Electronic Data Capture
+  - [ ] REDCap Cloud
+- [ ] MERATIVE
+  - [ ] Merative Clinical Development
+- [ ] OpenClinica
+  - [ ] Electonic Data Capture
+Group: Inter-org Data Sharing (GxP)
+Description: Securely share GXP-compliant data with external partners or organizations, track data access and edits for audit purposes, ensure data integrity and compliance with regulatory requirements
+Subgroup: 
+Companies/Products: 
+- [ ] Flywheel
+  - [ ] Flywheel Exchange
+- [ ] tetrascience
+  - [ ] Tetrascience Data Cloud
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA ScienceCloud
+- [ ] BC Platforms
+  - [ ] BC Platforms
+- [ ] Labii
+  - [ ] Labii Project Management
+Group: Inter-org Data Sharing (non-GxP)
+Description: Share non-GXP experiment and inventory data securely with external partners or organizations, set permissions for data access and editing, collaborate on analysis and interpretation
+Subgroup: 
+Companies/Products: 
+- [ ] DNAnexus
+  - [ ] DNAnexus Portals
+- [ ] ThermoFisher
+  - [ ] Lab Software Integration Tools
+- [ ] SCIGILIAN simplifying Life Science IT
+  - [ ] Scigilian Request
+- [ ] molsoft molecules in solico
+  - [ ] MolCart Suite (MolCart, GigaSearch, Compounds)
+- [ ] SCIGILIAN simplifying Life Science IT
+  - [ ] Scigilian Analyze
+- [ ] orchestra
+  - [ ] Orchestra Platform
+- [ ] Kaleidoscope
+  - [ ] Kaleidoscope Platform
+Group: Instrument-to-Cloud Data Transfer
+Description: Products that enable transfer of data, processed data, and/or metadata from instruments running experiments to a data storage mechanism (data lake, cloud service, etc)
+Subgroup: 
+Companies/Products: 
+- [ ] ELEMENTAL MACHINES
+  - [ ] Elemental Machines
+- [ ] SCIGILIAN simplifying Life Science IT
+  - [ ] Scigilian Visualize
+- [ ] Genedata solutions in silico
+  - [ ] Genedata Biopharma Platform
+- [ ] LAB FORWARD
+  - [ ] LabForward LabOperator
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Equipment
+- [ ] tetrascience
+  - [ ] Tetrascience Data Platform
+- [ ] Ganymede
+  - [ ] Ganymede Bio
+- [ ] Zontal
+  - [ ] Zontal
+- [ ] LABFELLOWS
+  - [ ] LabFellows Cloud
+- [ ] CHEMSPEED TECHNOLOGIES
+  - [ ] Arksuite Sofia
+- [ ] CHEMSPEED TECHNOLOGIES
+  - [ ] Autosuite
+- [ ] sapoi sciences
+  - [ ] Sapio Jarvis
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Equipment
+- [ ] Benchling
+  - [ ] Benchling for Lab Automation (& device drivers)
+- [ ] MONOMER
+  - [ ] Monomer Bio
+- [ ] Dotmatics
+  - [ ] BioBright DarwinSync
+- [ ] Unitelabs
+  - [ ] UniteLabs Platform
+Group: Automated Lab Equipment
+Description: Physical lab equipment, such as robotics, that automates workflows and experiments to enable reproducibility, scalability, and accuracy.
+Subgroup: General Liquid Handlers
+Companies/Products: 
+- [ ] HAMILTON
+  - [ ] Automated Liquid Handlers
+- [ ] Hudson ROBOTICS
+  - [ ] Liquid Handling Systems
+- [ ] TECAN
+  - [ ] Tecan
+- [ ] opentrons
+  - [ ] OT-2 Lab Robot
+- [ ] Waters
+  - [ ] Andrew+
+- [ ] HighRes bio solutions
+  - [ ] Prime
+- [ ] GILSON
+  - [ ] Liquid Handling Systems
+- [ ] PAA
+  - [ ] S-Lab Plate Handler
+Subgroup: Specialized Equipment & Workstations
+Companies/Products: 
+- [ ] Hudson ROBOTICS
+  - [ ] Workcells
+- [ ] opentrons
+  - [ ] OT-2 Workstations
+- [ ] CHEMSPEED TECHNOLOGIES
+  - [ ] Crystal
+- [ ] HAMILTON
+  - [ ] Automated Storage Systems
+- [ ] BERKELEY LIGHTS
+  - [ ] Optofluidic Systems
+- [ ] Automata
+  - [ ] Automata LINQ bench
+- [ ] Automata
+  - [ ] Eva
+- [ ] PAA
+  - [ ] S-CEL Workcells
+- [ ] PAA
+  - [ ] KX-2 Robot
+- [ ] MONOMER
+  - [ ] Monomer Bio
+Subgroup: Sensors/Equipment Control
+Companies/Products: 
+- [ ] ELEMENTAL MACHINES
+  - [ ] Elemental Machines
+Group: Automated Lab Setup
+Description: Products that help build/set up automated lab spaces and modules
+Subgroup: 
+Companies/Products: 
+- [ ] BIOSERO A BICO COMPANY
+  - [ ] Green Button Go Scheduler
+- [ ] PAA
+  - [ ] Harmony Interface
+- [ ] Spaero Bio
+  - [ ] Spaero
+- [ ] strateos
+  - [ ] SmartLab Software
+- [ ] ARTIFICIAL
+  - [ ] Labs, Assistants
+- [ ] LABFELLOWS
+  - [ ] LabFellows Cloud
+- [ ] MONOMER
+  - [ ] Monomer Bio
+- [ ] CHEMSPEED TECHNOLOGIES
+  - [ ] Arksuite Sofia
+Category: Analyze
+Group: Raw Compute/Storage Providers
+Description: Offer cloud-based computing and storage resources that can be used for data processing, machine learning, and other computational tasks without the need for large-scale on-premise infrastructure. This category is out-of-scope; list below is representative and non-exhaustive.
+Subgroup: 
+Companies/Products: 
+- [ ] amazon
+  - [ ] AWS
+- [ ] Google
+  - [ ] Google Cloud Platform
+- [ ] Microsoft
+  - [ ] Azure
+Group: Knowledge or Data/ Metadata Management
+Description: Tools to organize, sort, and surface relevant data and metadata, with a focus on larger or more heterogenous/complex datasets than generally captured by LIMS. Often a data [insert-body-of-water-reference].
+Subgroup: Chemistry Research
+Companies/Products: 
+- [ ] Chemaxon
+  - [ ] Instant JChem
+- [ ] molsoft molecules in silico
+  - [ ] MolCart Suite
+Subgroup: General Research
+Companies/Products: 
+- [ ] CODE OCEAN
+  - [ ] Public Capsule Repository
+- [ ] Ganymede
+  - [ ] Ganymede Bio
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA ScienceCloud
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Scientific Intelligence
+- [ ] databricks
+  - [ ] Databricks Lakehouse Platform
+- [ ] Lamin
+  - [ ] LaminDB
+- [ ] aspen biosciences
+  - [ ] Pipeline
+- [ ] sapio sciences
+  - [ ] Sapio Jarvis
+- [ ] Clarivate
+  - [ ] Cortellis Metacore
+- [ ] Sphinx Bio
+  - [ ] Sphinx Bio
+- [ ] Kaleidoscope
+  - [ ] Kaleidoscope Platform
+- [ ] Quilt
+  - [ ] Quilt
+Subgroup: Imaging Research
+Companies/Products: 
+- [ ] arivis a ZEISS company
+  - [ ] arivis Hub + arivis Pro
+- [ ] Flywheel
+  - [ ] Flywheel Discovery
+- [ ] ENABLE MEDICINE
+  - [ ] Enable Operating System
+Subgroup: -omics Research
+Companies/Products: 
+- [ ] 10X GENOMICS
+  - [ ] 10x Genomics Cloud Analysis
+- [ ] Betteromics
+  - [ ] BetterOmics platform
+- [ ] BROAD INSTITUTE
+  - [ ] Terra
+- [ ] DNAnexus
+  - [ ] DNAnexus Apollo
+- [ ] DNASTACK
+  - [ ] Publisher
+- [ ] eagle genomics
+  - [ ] e[datascience]
+- [ ] lucidata
+  - [ ] OmixAtlas
+- [ ] FORM BIO
+  - [ ] Form Bio
+- [ ] illumina
+  - [ ] BaseSpace
+- [ ] QIAGEN
+  - [ ] Omicsoft
+- [ ] NETRIAS
+  - [ ] Netrias ComNbeitnraiatsorial Design Model
+- [ ] pluto
+  - [ ] Pluto Platform
+- [ ] Seven Bridges
+  - [ ] ARIA
+- [ ] SNTHESIS
+  - [ ] Snthesis platform
+- [ ] tetrascience
+  - [ ] Tetrascience Data Platform
+- [ ] watershed
+  - [ ] Omics Bench
+- [ ] Zetta Genomics
+  - [ ] XetaBase
+- [ ] basepair
+  - [ ] Basepair Platform
+Group: Data Visualization
+Description: Represent and visualize data to help segment data, find trends, validate or refute hypotheses, and communicate their work to others. Contains life science-specific and industry-agnostic tools used in life science visualization.
+Subgroup: Flow Cytometry Datasets
+Companies/Products: 
+- [ ] Dotmatics
+  - [ ] FCS Express
+- [ ] Dotmatics
+  - [ ] Omiq and Cytapex
+- [ ] FLOWJO
+  - [ ] Flowjo
+- [ ] ZONTAL
+  - [ ] Zontal
+Subgroup: LC/UV/ MS & NMR Datasets
+Companies/Products: 
+- [ ] ACD / LABS
+  - [ ] Spectrus Platform
+- [ ] Dotmatics
+  - [ ] Protein Metrics
+- [ ] ThermoFisher SCIENTIFIC
+  - [ ] Chromeleon CDS
+Subgroup: Small Datasets
+Companies/Products: 
+- [ ] CDD
+  - [ ] CDD Vault Visualization
+- [ ] Dotmatics
+  - [ ] GraphPad Prism
+- [ ] Genedata solutions in silico
+  - [ ] Genedata Screener
+- [ ] plotly
+  - [ ] Plotly
+- [ ] SCIGILIAN simplifying Life Science IT
+  - [ ] Scigilian Visualize
+- [ ] Sphinx Bio
+  - [ ] Sphinx Bio
+Subgroup: Large Datasets
+Companies/Products: 
+- [ ] plotly
+  - [ ] Plotly + Dash Enterprise
+- [ ] Tableau Software
+  - [ ] Tableau
+- [ ] TIBCO
+  - [ ] Spotfire
+Subgroup: Image Datasets
+Companies/Products: 
+- [ ] arivis a ZEISS company
+  - [ ] arivis Pro; VR Pro; Hub
+- [ ] Core Life Analytics
+  - [ ] StratoMineR
+- [ ] ENABLE MEDICINE
+  - [ ] Enable Operating System
+- [ ] indica labs
+  - [ ] Halo AI
+- [ ] QuPath
+  - [ ] QuPath
+- [ ] VISIOPHARM
+  - [ ] VisioPharm
+Subgroup: -Omics Datasets
+Companies/Products: 
+- [ ] 10X GENOMICS
+  - [ ] Loupe Browser
+- [ ] Partek turning data into discovery
+  - [ ] Partek Flow
+- [ ] varsome
+  - [ ] Varsome
+- [ ] eagle genomics
+  - [ ] e[exploration]
+- [ ] ROSALIND
+  - [ ] Rosalind Bio
+- [ ] Dotmatics
+  - [ ] Geneious + SnapGene
+- [ ] ADVAITA next generation bioinformatics
+  - [ ] iVariantGuide
+- [ ] CytoReason
+  - [ ] CytoReason Platform
+- [ ] basepair
+  - [ ] Basepair Platform
+- [ ] Kaleidoscope
+  - [ ] Kaleidoscope Platform
+Group: Interactive Computing
+Description: Environments and tools for computational biologists/bioinformaticians to run scripts, check the outputs, and then modify, either for prototyping workflows or exploring data interactively post-workflow. Functionality varies from a simple wrapper around Jupyter Notebooks for Python to fuller-featured development environments.
+Subgroup: Life Sciences-Specific
+Companies/Products: 
+- [ ] ANACONDA
+  - [ ] Anaconda Enterprise
+- [ ] BROAD INSTITUTE
+  - [ ] Terra
+- [ ] CODE OCEAN
+  - [ ] Code Ocean Computational Workbench
+- [ ] DNAnexus
+  - [ ] DNAnexus Apollo
+  
+- [ ] DNAnexus
+  - [ ] DNAnexus Titan
+  
+- [ ] globus genomics
+  - [ ] Globus Genomics
+  
+- [ ] hypahub
+  - [ ] HypaHub
+  
+- [ ] LatchBio
+  - [ ] Latch Pods
+  
+- [ ] METACELL
+  - [ ] MetaCell Cloud Workspce
+  
+- [ ] SevenBridges
+  - [ ] Seven Bridges Platform
+  
+- [ ] watershed
+  - [ ] Omics Bench
+  
+- [ ] nuvolos
+  - [ ] Nuvolos
+  
+- [ ] DeepOrigin
+  - [ ] ComputeBench
+  
+- [ ] ENABLE MEDICINE
+  - [ ] Enable BIOS
+  
+- [ ] ONTOLOGIC
+  - [ ] Tool Runner
+  
+Subgroup: General
+Companies/Products: 
+- [ ] databricks
+  - [ ] Databricks Lakehouse Platform
+  
+- [ ] Saturn Cloud
+  - [ ] Saturn Cloud
+  
+- [ ] Ganymede
+  - [ ] Ganymede Bio
+Group: High-Profile Tools
+Description: Specific bioinformatics tools/packages that are frequently used and very well-known. This category is out-of-scope; list below is representative and non-exhaustive.
+Subgroup: 
+Companies/Products: 
+- [ ] BROAD INSTITUTE
+  - [ ] GATK (Genome Analysis Toolkit)
+  
+- [ ] Baker Lab
+  - [ ] Rosetta
+  
+- [ ] hail
+  - [ ] Hail Query + Batcj
+  
+- [ ] NIH
+  - [ ] BLAST (Basic Local Alignment Search Tool)
+  
+- [ ] plotly
+  - [ ] Plotly
+Group: Developer Community
+Description: Groups or companies that are aggregating and developing tools, such as github, stackoverflow, nextflow (specific community). This category is out-of-scope; list below is representative and non-exhaustive.
+Subgroup: 
+Companies/Products: 
+- [ ] GitHub
+  - [ ] GitHub
+  
+- [ ] ANACONDA
+  - [ ] Conda
+  
+- [ ] CODE OCEAN
+  - [ ] Code Ocean Hub
+  
+- [ ] nextflow
+  - [ ] NextFlow
+Group: Open/Academic Datasets
+Description: Publicly-accessible data that is in a centralized place to enable researchers to quickly access and analyze relevant data. Acce ss to data is generally not paid (though premium paid products may exist). This category is out-of-scope; list below is representative and non-exhaustive.
+Subgroup: 
+Companies/Products: 
+- [ ] Open Targets
+  - [ ] OpenTargets
+  
+- [ ] RECURSION
+  - [ ] Recursion RxRx Datasets
+  
+- [ ] varsome
+  - [ ] Varsome
+  
+- [ ] JGI JOINT GENOME INSTITUTE
+  - [ ] Integrated Microbial Genomes (IMG)
+  
+- [ ] EMBL-EBI
+  - [ ] Ensembl
+  
+- [ ] UniProt
+  - [ ] UniProt
+  
+- [ ] EMBL-EBI
+  - [ ] Pfam
+Group: Data Aggregators & Proprietary Datasets
+Description: Collect data from internal, private, or public sources, and integrate it into one centralized place to enable researchers to quickly access and analyze relevant data. Access to datasets is paid.
+Subgroup: Biological
+Companies/Products: 
+- [ ] DNA nexus
+  - [ ] UK Biobank Research Analysis
+  
+- [ ] eagle genomics
+  - [ ] e[marketplace]
+  
+- [ ] lucidata
+  - [ ] OmixAtlas
+  
+- [ ] ENABLE MEDICINE
+  - [ ] Enable Operating System
+  
+- [ ] Lhasa Limited
+  - [ ] Lhasa Carcinogenicity Database
+  
+- [ ] QIAGEN
+  - [ ] OmicSoft Land Explorer
+  
+- [ ] Racho biosciences The Data Science Services Company
+  - [ ] RanchoKb
+  
+- [ ] varsome
+  - [ ] Varsome Premium
+  
+- [ ] ADVAITA next generation bioinformatics
+  - [ ] iBioGuide
+  
+- [ ] BioBox
+  - [ ] Knowledge Graph Search
+  
+- [ ] OpenEye SCIENTIFIC
+  - [ ] Curated Databases
+  
+- [ ] Kaleidoscope
+  - [ ] Kaleidoscope Platform
+Subgroup: Business Insights
+Companies/Products: 
+- [ ] Clarivate
+  - [ ] Cortellis Platform
+  
+- [ ] GlobalData
+  - [ ] Pharma Intelligence
+  
+- [ ] Evaluate Pharma
+  - [ ] Evaluate Pharma
+  
+- [ ] lifebit
+  - [ ] Lifebit REAL
+Subgroup: Chemical
+Companies/Products: 
+- [ ] CDD
+  - [ ] CDD PharmaKB
+  
+- [ ] Chemaxon
+  - [ ] ChemCurator
+  
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Content Databases
+  
+- [ ] Lhasa Limited
+  - [ ] Vitic
+Group: Cellular Image Analysis
+Description: Tools that enable segmentation and analysis of cellular image-based datasets, including in light/fluorescence microscopy, histology staining, immunohistochemistry labeling, and spatial-omics analyses.
+Subgroup: Open Source
+Companies/Products: 
+- [ ] NIH
+  - [ ] ImageJ
+  
+- [ ] QuPath
+  - [ ] QuPath
+  
+- [ ] CellProfiler cell image analysis software
+  - [ ] CellProfiler
+Subgroup: Proprietary
+Companies/Products: 
+- [ ] Quorum
+  - [ ] Volocity
+  
+- [ ] OXFORD INSTRUMENTS
+  - [ ] Imaris
+  
+- [ ] Core Life Analytics
+  - [ ] CPUltra + StratoMinerR
+  
+- [ ] indica labs
+  - [ ] Halo AI
+  
+- [ ] VISIOPHARM
+  - [ ] VisioPharm
+  
+- [ ] ENABLE MEDICINE
+  - [ ] Enable BIOS
+Group: Workflow Managers/ Batch Execution
+Description: Enables execution of computational workflows or pipelines that have already been built or optimized. Tools listed are targeted at different user groups and generally trade off between coding knowledge requirements and customizability.
+Subgroup: Code-based, high customization
+Companies/Products: 
+- [ ] BROAD INSTITUTE
+  - [ ] Terra
+  
+- [ ] DNAnexus
+  - [ ] DNAnexus Titan
+  
+- [ ] DNASTACK
+  - [ ] Workbench
+  
+- [ ] eagle genomics
+  - [ ] e[SDK]
+  
+- [ ] Google
+  - [ ] Google Cloud Composer
+  
+- [ ] hypahub
+  - [ ] HypaHub
+  
+- [ ] LatchBio
+  - [ ] Latch SDK
+  
+- [ ] lifebit
+  - [ ] LifeBit CloudOS
+  
+- [ ] Microsoft
+  - [ ] Microsoft Genomics
+  
+- [ ] redun
+  - [ ] redun
+  
+- [ ] seqeralabs
+  - [ ] Nextflow Tower
+  
+- [ ] SevenBridges
+  - [ ] RHEO
+  
+- [ ] snakemake
+  - [ ] Snakemake
+  
+- [ ] ONTOLOGIC
+  - [ ] Tool Runner
+Subgroup: Code-flexible, variable customization
+Companies/Products: 
+- [ ] arivis a ZEISS company
+  - [ ] arivis Hub
+  
+- [ ] Arvados
+  - [ ] Arvados Platform
+  
+- [ ] BioBox
+  - [ ] Workbench
+Subgroup: Low-code/no-code, low customization, sequencing-based data
+Companies/Products: 
+- [ ] 10X GENOMICS
+  - [ ] 10x Genomics Cloud Analysis
+  
+- [ ] amazon
+  - [ ] AWS Omics
+  
+- [ ] Datirium
+  - [ ] SciDap
+  
+- [ ] DNAnexus
+  - [ ] DNAnexus Apollo
+  
+- [ ] Drift Bio
+  - [ ] Drift Bio
+  
+- [ ] globus genomics
+  - [ ] Globus Genomics (also galaxy)
+  
+- [ ] illumina 
+  - [ ] Illumina GRAGEN
+  
+- [ ] jmp
+  - [ ] JMP Genomics
+  
+- [ ] LatchBio
+  - [ ] Latch Platform
+  
+- [ ] Partek turning data into discovery
+  - [ ] Partek Flow
+  
+- [ ] QIAGEN
+  - [ ] CLC Genomics Workbench
+  
+- [ ] ROSALIND
+  - [ ] Rosalind Bio
+  
+- [ ] SevenBridges
+  - [ ] GRAF
+  
+- [ ] basepair
+  - [ ] Basepair Platform
+Subgroup: Low-code/no-code, low customization, sequencing-based + protein/proteomics/ biomarker
+Companies/Products: 
+- [ ] evotec
+  - [ ] Evotec PanHunter
+  
+- [ ] FORM BIO
+  - [ ] Form Bio
+  
+- [ ] Galaxy
+  - [ ] Galaxy
+  
+- [ ] pluto
+  - [ ] Pluto Platform
+  
+- [ ] SevenBridges
+  - [ ] ARIA
+  
+- [ ] NETRIAS
+  - [ ] Netrias Active Discovery Engine
+Subgroup: Workflow benchmarking
+Companies/Products: 
+- [ ] magna labs INFORMATICS OPS
+  - [ ] Miqa
+Group: Data Cleaning/Standardization
+Description: Process and curate raw data from public or private sources to ensure that data adhere to specific standards and are associated with relevant metadata/ontologies to improve the usability of the data.
+Subgroup: 
+Companies/Products: 
+- [ ] SNTHESIS
+  - [ ] Snthesis platform
+  
+- [ ] lucidata
+  - [ ] Polly
+  
+- [ ] MANIFOLD
+  - [ ] Manifold.ai
+  
+- [ ] Rancho biosciences The Data Science Services Company
+  - [ ] Data Curation
+  
+- [ ] BC Platforms
+  - [ ] BC Platforms
+  
+- [ ] NETRIAS
+  - [ ] Netrias PathEngine
+Category: Simulate
+Group: Small Molecule Structure/Properties
+Description:Visualize and assess small molecules for their properties (e.g., solubility, synthesizability, crystal properties) based on a chemical composition or structure
+Subgroup: Structure Drawing
+Companies/Products: 
+- [ ] ACD / LABS
+  - [ ] ChemSketch
+  
+- [ ] Chemaxon
+  - [ ] Marvin
+  
+- [ ] Chemaxon
+  - [ ] Chemicalize
+Subgroup: Structure Prediction & Representation
+Companies/Products: 
+- [ ] Chemaxon
+  - [ ] Chemical naming and structure Chemaxon conversion tool
+  
+- [ ] Chemaxon
+  - [ ] Chemical Structure Representation Toolkit
+- [ ] molsoft molecules in silico
+  - [ ] ICM Chemist Pro
+  
+- [ ] molsoft molecules in silico
+  - [ ] iMolvie
+  
+- [ ] Schrödinger
+  - [ ] LigPrep
+  
+- [ ] Schrödinger
+  - [ ] ConfGen
+Subgroup: Structure Design & Variation
+Companies/Products: 
+- [ ] Chemaxon
+  - [ ] Design Hub
+  
+- [ ] Chemaxon
+  - [ ] JKlustor
+  
+- [ ] Chemaxon
+  - [ ] Markush Editor
+  
+- [ ] Schrödinger
+  - [ ] Core Hopping
+  
+- [ ] Chemify
+  - [ ] Chemify.io
+Subgroup: Chemical Properties Prediction
+Companies/Products: 
+- [ ] Lhasa Limited
+  - [ ] Effiris
+  
+- [ ] Schrödinger
+  - [ ] Jaguar
+    
+- [ ] Schrödinger
+  - [ ] AutoQSAR
+- [ ] Schrödinger
+  - [ ] Active learning Applications
+- [ ] Schrödinger
+  - [ ] DeepAutoQSAR
+  
+- [ ] Schrödinger
+  - [ ] Field-Based QSAR
+Subgroup: Synthesis & Degradation Pathways
+Companies/Products: 
+- [ ] Lhasa Limited
+  - [ ] Zeneth
+  
+- [ ] Chemaxon
+  - [ ] Reactor
+Subgroup: Multi-purpose/ General 
+Companies/Products: 
+- [ ] Chemical Computing Group
+  - [ ] Molecular Operating Environment
+  
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Materials Studio
+  
+- [ ] OpenEye SCIENTIFIC
+  - [ ] Small Molecule Discovery Suite
+Group: Atomistic Docking
+Description: Predicts the static binding configuration between a small molecule compound and protein structure by simulating the interactions of individual atoms. Primarily used in early-stage drug development as a starting point.
+Subgroup: Open Source
+Companies/Products: 
+- [ ] Baker Lab
+  - [ ] Rosetta
+  
+- [ ] RBVI
+  - [ ] UCSF Chimera
+  
+- [ ] MIT JAMEEL CLINIC 
+  - [ ] DiffDock
+Subgroup: Proprietary
+Companies/Products: 
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Discovery Studio
+  
+- [ ] molsoft molecules in silico
+  - [ ] ICM-VLS
+  
+- [ ] molsoft molecules in silico
+  - [ ] ICM-PRO
+  
+- [ ] Schrödinger
+  - [ ] Glide
+  
+- [ ] Chemical Computing Group
+  - [ ] Molecular Operating Environment
+  
+- [ ] OpenEye SCIENTIFIC
+  - [ ] Gigadock & Gigadock Wrap
+  
+- [ ] BiosimAI X DeepOrigin
+  - [ ] BiosimDock / BiosimScreen
+Group: Molecular Dynamics
+Description: “Docking” but with modeling of energy-based movements over time - takes different conformations of small molecules and a protein to determine the free energy; considered more accurate/predictive than docking, but computationally much more expensive and generally limited to lead optimization.
+Subgroup: Open Source
+Companies/Products: 
+- [ ] OpenMM
+  - [ ] OpenMM
+  
+- [ ] GROMACS FAST.FLEXIBLE.FREE
+  - [ ] GROMACS
+  
+- [ ] AMBER
+  - [ ] AMBER
+Subgroup: Proprietary
+Companies/Products: 
+- [ ] Chemical Computing Group
+  - [ ] Molecular Operating Environment
+  
+- [ ] OpenEye SCIENTIFIC
+  - [ ] Orion Molecular Design Platform
+  
+- [ ] Schrödinger
+  - [ ] Desmond
+  
+- [ ] Schrödinger
+  - [ ] IFD-MD
+  
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Discovery Studio
+  
+- [ ] Schrödinger
+  - [ ] BioLuminate
+  
+- [ ] TandemAI
+  - [ ] TandemAI
+  
+- [ ] OPEN BIOSIM
+  - [ ] BioSimSpace
+  
+- [ ] BiosimAI X DeepOrigin
+  - [ ] BiosimMD
+Group: Virtual Screening
+Description: High-throughput docking of small-molecule compounds to a binding pocket in protein structure; used in early stage drug discovery to generate small molecule leads as a starting point in drug development
+Subgroup:
+Companies/Products: 
+- [ ] Chemaxon
+  - [ ] JKlustor
+  
+- [ ] Chemaxon
+  - [ ] Screen Suite
+  
+- [ ] Chemical Computing Group
+  - [ ] Molecular Operating Environment
+  
+- [ ] Chemotargets
+  - [ ] CLARITY
+  
+- [ ] Lhasa Limited
+  - [ ] Effiris
+  
+- [ ] molsoft molecules in silico
+  - [ ] ICM-VLS
+  
+- [ ] Schrödinger
+  - [ ] Clide
+  
+- [ ] Schrödinger
+  - [ ] Phase
+  
+- [ ] OpenEye SCIENTIFIC
+  - [ ] Small Molecule Discovery Suite
+  
+- [ ] BiosimAI X DeepOrigin
+  - [ ] BiosimScreen
+Group: Protein Structure/ Folding
+Description: Visualizing or predicting 3D structure of a protein based on the amino acid sequence and other known physical properties.
+Subgroup: Visualization
+Companies/Products: 
+- [ ] Chemical Computing Group
+  - [ ] Molecular Operating Environment
+  
+- [ ] Schrödinger
+  - [ ] PyMOL
+  
+- [ ] molsoft molecules in silico
+  - [ ] iMolview
+  
+- [ ] RBVi
+  - [ ] UCSF Chimera
+  
+- [ ] Sphinx Bio
+  - [ ] Sphinx Bio
+  
+- [ ] PDBe Protein Data Bank in Europe, Elixir CZECH REPUBLIC, CEITEC Central European Institute of Technology BRNO | CZECH REPUBLIC 
+  - [ ] Molstar
+  
+- [ ] molsoft molecules in silico
+  - [ ] ICM Bio
+  
+- [ ] molsoft molecules in silico
+  - [ ] ICM-Pro
+Subgroup: Structure / Folding Prediction
+Companies/Products: 
+- [ ] Baker Lab
+  - [ ] Rosetta
+  
+- [ ] DeepMind
+  - [ ] AlphaFold
+  
+- [ ] Schrödinger
+  - [ ] Prime
+  
+- [ ] Open Molecular Software Foundation
+  - [ ] OpenFold
+  
+- [ ] Meta
+  - [ ] ESMFold
+  
+- [ ] BiosimAI X DeepOrigin
+  - [ ] AWSEM 2.0
+Group: DNA/RNA construct design
+Description: Represent DNA and RNA sequence to enable construct design, guide RNA design, or design of other DNA and RNA-based constructs.
+Subgroup: 
+Companies/Products: 
+- [ ] Benchling
+  - [ ] Plasmid/Construct Design Tool
+  
+- [ ] Dotmatics
+  - [ ] Geneious + SnapGene
+  
+- [ ] GENEMOD
+  - [ ] Molecular Biology
+  
+- [ ] molsoft molecules in silico
+  - [ ] ICM Bio
+  
+- [ ] sapio sciences
+  - [ ] Sapio ELN
+  
+- [ ] teselagen BIOTECHNOLOGY
+  - [ ] Open Vector Editor
+Group: DNA/ RNA Structure or Tm
+Description: Visualizing or predicting the 3D structures of DNA/RNA fragments based on the input nucleotide fragments to study their structural properties, such as melting temperatures, stability, and interactions with other molecules.
+Subgroup: 
+Companies/Products: 
+- [ ] Chemical Computing Group
+  - [ ] Molecular Operating Environment
+  
+- [ ] Baker Lab
+  - [ ] Rosetta
+Group: Manufacturing / Formulation
+Description: Enables researchers to predict and optimize the formulation of drug candidates by simulating & analyzing factors such as solubility, stability, drug-excipient compatibility, & dosage form selection, aiding in the development of safe and effective drug products.
+Subgroup: 
+Companies/Products: 
+  
+- [ ] Lhasa Limited
+  - [ ] Mirabilis
+  
+- [ ] SimulationsPlus
+  - [ ] DDDPlus
+  
+- [ ] OpenEye SCIENTIFIC
+  - [ ] Formulations Suite
+  
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA COSMOtherm
+Group: Pathway Modeling
+Description: Models cellular pathways, which can be either metabolic or regulatory, in response to external stimuli or perturbations.
+Subgroup: Discovery
+Companies/Products: 
+  
+- [ ] Chemotargets
+  - [ ] CLARITY
+  
+- [ ] Clarivate
+  - [ ] Cortellis Metacore
+  
+- [ ] Clarivate
+  - [ ] Drug Discovery Intelligence Platform
+  
+- [ ] Cellworks
+  - [ ] Computational Omics Biology Model
+  
+- [ ] COPASI
+  - [ ] COPASI (Complex Pathway Simulator)
+  
+- [ ] QIAGEN 
+  - [ ] QIAGEN IPA
+  
+- [ ] ADVAITA next generation bioinformatics
+  - [ ] iBioGuid
+  
+- [ ] THINKINGNODELIFE.ai Unleashing the Power of AI Reasoning to Understand Life
+  - [ ] ThinkingNode Life Science
+Subgroup: Safety
+Companies/Products: 
+- [ ] Lhasa Limited
+  - [ ] Meteor Nexus
+  
+- [ ] METACELL
+  - [ ] MetaCell Pharma
+  
+- [ ] seachange PHARMACEUTICALS
+  - [ ] SEAware
+  
+- [ ] SimulationPlus
+  - [ ] ADMET-Predictor
+Group: Toxicology Modeling
+Description: Predict the potential toxicity of a compound or drug candidate by analyzing its interactions with cellular components and pathways, and identifying potential adverse effects.
+Subgroup: 
+Companies/Products: 
+  
+- [ ] ACD / Labs
+  - [ ] Percepta Platform
+  
+- [ ] Chemaxon
+  - [ ] Compliance Checker & ChemTS
+  
+- [ ] Chemotargets
+  - [ ] CLARITY
+  
+- [ ] Lhasa Limited
+  - [ ] Derek Nexus
+  
+- [ ] Lhasa Limited
+  - [ ] Vitic
+  
+- [ ] Lhasa Limited
+  - [ ] Zeneth
+  
+- [ ] molsoft molecules in silico
+  - [ ] MolScreen
+  
+- [ ] SimulationsPlus
+  - [ ] DILIsym QST
+  
+- [ ] Clarivate
+  - [ ] Drug Discovery Intelligence Platform
+Group: Inter-cellular/tissue Modeling
+Description: Simulates the interactions between cells, tissues, or organs to understand biology and study impact of interventions.
+Subgroup: 
+Companies/Products: 
+  - [ ] CytoReason
+  - [ ] CytoReason Platform
+  - [ ] IS IT
+  - [ ] o2S2PARC
+  - [ ] SP OPEN SYSTEMS PHARMACOLOGY
+  - [ ] PK-SIM
+Group: Pharmacology Modeling
+Description: Predicts the pharmacokinetics (how the body processes a drug), pharmacodynamics (how the drug affects the body), and dose-response relationship, to facilitate drug discovery and optimization.
+Subgroup: PK/PD
+Companies/Products: 
+- [ ] CERTARA
+  - [ ] Certara Phoenix
+- [ ] SimulationsPlus
+  - [ ] MonolixSuite PK/PD
+- [ ] SP OPEN SYSTEMS PHARMACOLOGY
+  - [ ] PK-SIM
+Subgroup: ADME(T)
+Companies/Products: 
+- [ ] ACD / Labs
+  - [ ] Percepta Platform
+- [ ] CERTARA
+  - [ ] Certara Simcyp
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA COSMOtherm
+- [ ] Lhasa Limited
+  - [ ] Effiris
+- [ ] Schrödinger
+  - [ ] QikProp
+- [ ] Chemotargets
+  - [ ] CLARITY
+Subgroup: QSAR
+Companies/Products: 
+- [ ] Lhasa Limited
+  - [ ] Sarah Nexus
+- [ ] DASSAULT SYSTEMES
+  - [ ] BIOVIA Discovery Studio
+Subgroup: QSP/Dosage
+Companies/Products: 
+- [ ] Immunetrics
+  - [ ] Immunetrics Thales
+- [ ] Physiomics
+  - [ ] Virtual Tumour
+- [ ] ROSA
+  - [ ] PhysioPD Research Platform
+Subgroup: Organ-Specific
+Companies/Products: 
+- [ ] SimulationsPlus
+  - [ ] GastroPlus PBBM/PBPK
+- [ ] SimulationsPlus
+  - [ ] NAFLDsym QSP
