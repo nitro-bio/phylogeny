@@ -11,15 +11,212 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "Small Molecule",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "CDD",
+                                    "product": "CDD Vault",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Notebook",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Labguru",
+                                    "product": "ELN",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft",
+                                    "product": "ICM-Scarab",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Scicord",
+                                    "product": "Scicord ELN/LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "revvity signals",
+                                    "product": "Signals Notebook",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Biologics",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Benchling",
+                                    "product": "Notebook",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "Protein Metrics",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Genemod",
+                                    "product": "Notebook",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "sapio",
+                                    "product": "Sapio ELN",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Automation/Regulated",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Biosero",
+                                    "product": "Green Button Go Lab Experience",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMS",
+                                    "product": "BIOVIA Workbook",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LabVentage",
+                                    "product": "LabVantage ELN",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LabTwin",
+                                    "product": "Digital Lab Assistant",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LabVoice",
+                                    "product": "LabVoice Smart Device",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "General/Uncategorized",
+                            "products": [
+                                {
+                                    "company": "Arxspan",
+                                    "product": "Arxspan",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Descign",
+                                    "product": "Descign",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "LabArchives ELN for Research",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LAB FORWARD",
+                                    "product": "LabForward LabFolder",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Microsoft Notion Atlassian",
+                                    "product": "OneNote/Notion/Atlassian",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "eLabNext",
+                                    "product": "eLab Journal",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Limmi",
+                                    "product": "Limmi Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SciNote",
+                                    "product": "ELN Notebook",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Colabra",
+                                    "product": "Colabra",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Scispot",
+                                    "product": "Lab Operating System",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Labii",
+                                    "product": "Labii ELN",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Kaleidoscope",
+                                    "product": "Kaleidoscope Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -28,20 +225,248 @@ export const raw = {
                     "description": "Assists with experiment design by providing templates, enabling development and validation of reagents/tools (e.g., primers), designing assays testing many parameters, and/or developing statistical analysis plans.",
                     "subgroups": [
                         {
-                            "name": "General/Uncategorized",
-                            "products": []
-                        },
-                        {
                             "name": "Chemistry",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "ACD/Labs",
+                                    "product": "Spectrus Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CDD",
+                                    "product": "CDD Vault",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Design Hub",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Reactor",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Revvity signals",
+                                    "product": "Signals Notebook",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Biology",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Benchling",
+                                    "product": "Molecular Biology",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Botmatics",
+                                    "product": "Geneious",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "Omiq and Cytapex",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "SnapGene",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "GENEMOD",
+                                    "product": "Molecular Biology",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "ICM Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "sapio sciences",
+                                    "product": "Sapio ELN",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "revvity signals",
+                                    "product": "Signals Notebook",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "torx connected chemistry",
+                                    "product": "Trox Design",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Automation/High-throughput",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "ARTIFICIAL",
+                                    "product": "Assistants",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BIOSERO A BICO COMPANY",
+                                    "product": "Green Button Go Lab Experience",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Ganymede",
+                                    "product": "Ganymede Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LABFELLOWS",
+                                    "product": "LabFellows Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "RADIX",
+                                    "product": "Easel Protocol Builder",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Synthace",
+                                    "product": "Digital Experiment Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CHEMSPEED TECHNOLOGIES",
+                                    "product": "Autosuite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Waters",
+                                    "product": "OneLab",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "GILSON",
+                                    "product": "Gilson Software",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Automata",
+                                    "product": "Automata LINQ Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "revvity signals",
+                                    "product": "VitroVivo",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "General/Uncategorized",
+                            "products": [
+                                {
+                                    "company": "arivis a ZEISS company",
+                                    "product": "arivis Hub",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "NETRIAS",
+                                    "product": "Netrias Combinatorial Design Model",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Study Design & Tracking",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Physiomics",
+                                    "product": "Physiomics",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Aq",
+                                    "product": "Aquarium Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Arxspan A division of Bruker",
+                                    "product": "Arxspan",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "UniteLabs",
+                                    "product": "UniteLabs Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -50,24 +475,323 @@ export const raw = {
                     "description": "Collects a wide variety of small, structured datasets with accompanying metadata to enable searchability. Often conflated with a \u2018lab inventory\u2019 system because it frequently contains high-value consumable reagents or samples.",
                     "subgroups": [
                         {
-                            "name": "General/Uncategorized",
-                            "products": []
-                        },
-                        {
                             "name": "Small Molecule",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "molsoft",
+                                    "product": "ICM-Scarab",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CDD",
+                                    "product": "CDD Vault",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Compound registration",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Direct",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SCICORD ELN/LIMS",
+                                    "product": "Scicord ELN/LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Biologics",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Benchling",
+                                    "product": "Benchling Bioregistry",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "Geneious",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "Protein Metrics",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CellPort Powering Breakthroughs",
+                                    "product": "Cellport",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "sapio sciences",
+                                    "product": "Sapio LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LabKey",
+                                    "product": "LabKey",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Sample Assay as a Service/Regulated",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "LABWARE Results Count",
+                                    "product": "LabWare LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ThermiFisher SCIENTIFIC",
+                                    "product": "SampleManager LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SCIGILIAN simplifying Life Science IT",
+                                    "product": "Scigilian Store",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Samples",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Automation/Regulated",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "ThermoFisher SCIENTIFIC",
+                                    "product": "Watson LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BIOSERO A BICO COMPANY",
+                                    "product": "Green Button Go Orchestrator",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Sample for Assay",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ThermoFisher SCIENTIFIC",
+                                    "product": "Chromeleon CDS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "RADIX",
+                                    "product": "Rainbow Lab Database",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Waters",
+                                    "product": "Informatics and Software",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Assay",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "General/Uncategorized",
+                            "products": [
+                                {
+                                    "company": "ThermoFisher SCIENTIFIC",
+                                    "product": "Core LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Genedata solutions in silico",
+                                    "product": "Biopharma Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Labguru",
+                                    "product": "LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LabVantage",
+                                    "product": "LabVantage",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LAB FELLOWS",
+                                    "product": "LabFellows Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Aq",
+                                    "product": "Aquarium Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Descign",
+                                    "product": "Descign",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "titian",
+                                    "product": "Mosaic",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Arxspan A division of Bruker",
+                                    "product": "Arxspan",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "eLabNext EPPENDORF GROUP",
+                                    "product": "eLabJournal",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Limmi",
+                                    "product": "Limmi Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "STARLIMS",
+                                    "product": "StarLIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Simplicis",
+                                    "product": "Ledger LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SciNote",
+                                    "product": "ELN Notebook",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Colabra",
+                                    "product": "Colabra",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Opvia",
+                                    "product": "Opvia",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Autoscribe INFORMATICS",
+                                    "product": "Matrix LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Scispot",
+                                    "product": "Lab Operating System",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Labii",
+                                    "product": "Labii LIMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Kaleidoscope",
+                                    "product": "Kaleidoscope Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -76,12 +800,70 @@ export const raw = {
                     "description": "Create and share experimental protocols, particularity between organizations, to review and comment on other protocols, track changes and version history, and ensure data reproducibility",
                     "subgroups": [
                         {
-                            "name": "General/Uncategorized",
-                            "products": []
+                            "name": "General",
+                            "products": [
+                                {
+                                    "company": "bioz",
+                                    "product": "BioZ",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "protocols.io",
+                                    "product": "Protocols.io",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "scifind",
+                                    "product": "SciFind",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "eLabNext EPPENDORF GROUP",
+                                    "product": "eLabJournal",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Waters",
+                                    "product": "OneLab",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
-                            "name": "General",
-                            "products": []
+                            "name": "Specialized",
+                            "products": [
+                                {
+                                    "company": "Aq",
+                                    "product": "Aquarium Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Reactor",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "Omiq and Cytapex",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -90,8 +872,212 @@ export const raw = {
                     "description": "Streamlines lab operations with scheduled workflows, automated equipment programming, and smart tools for space planning and equipment maintenance.",
                     "subgroups": [
                         {
-                            "name": "Specialized",
-                            "products": []
+                            "name": "",
+                            "products": [
+                                {
+                                    "company": "ARTIFICIAL",
+                                    "product": "LabOps",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Ganymede",
+                                    "product": "Ganymede Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Genedata solutions in silico",
+                                    "product": "Biopharma Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LAB FORWARD",
+                                    "product": "LabForward LabOperator",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Labguru",
+                                    "product": "Equipment Management",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "LabArchives Scheduler",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LABFELLOWS",
+                                    "product": "LabFellows Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SCIGILIAN simplifying Life Science IT",
+                                    "product": "Scigilian Analyze",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ELEMENTAL MACHINES",
+                                    "product": "Elemental Machines",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Benchling",
+                                    "product": "Benchling for Lab Automation (& device drivers)",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Equipment",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BIOSERO A BICO COMPANY",
+                                    "product": "Green Button Go Scheduler",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BIOSERO A BICO COMPANY",
+                                    "product": "Green Button Go Orchestrator",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BIOSERO A BICO COMPANY",
+                                    "product": "Green Button Go Insights",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "RADIX",
+                                    "product": "Weaver Lab Compiler, Slipstream Lab Scheduler, Rainbow Lab Database",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ThermoFisher SCIENTIFIC",
+                                    "product": "Chromeleon CDS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SCIGILIAN simplifying Life Science IT",
+                                    "product": "Scigilian Request",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Aq",
+                                    "product": "Aquarium Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CHEMSPEED TECHNOLOGIES",
+                                    "product": "Arksuite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "EQUICON",
+                                    "product": "niceLAB Scheduler",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LabTwin",
+                                    "product": "Digital Lab Assistant",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LabVoice",
+                                    "product": "LabVoice Smart Device",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "RETISOFT SMART APPROACH TO AUTOMATION",
+                                    "product": "Genera Scheduling Software",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Sigsense",
+                                    "product": "Sigsense Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CHEMSPEED TECHNOLOGIES",
+                                    "product": "Autosuite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Xavo",
+                                    "product": "Xavo R3",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "PAA",
+                                    "product": "Overlord Scheduling Software",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Hudson ROBOTICS",
+                                    "product": "Softlinx Player",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "HighRes biosolutions",
+                                    "product": "Cellario",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -101,7 +1087,113 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "CDD",
+                                    "product": "CDD Vault",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SCIGILIAN simplifying Life Science IT",
+                                    "product": "Scigilian Store",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "GENEMOD",
+                                    "product": "Inventory",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LAB FORWARD",
+                                    "product": "LabForward LabRegister",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA CISPro",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BRIOSERO A BICO COMPANY",
+                                    "product": "Green Button Go Orchestrator",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "QUARTZY",
+                                    "product": "Quartzy",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LABFELLOWS",
+                                    "product": "LabFellows Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Labguru",
+                                    "product": "Inventory Management",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Labii",
+                                    "product": "Labii Inventory Management",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Arxspan A division of Bruker",
+                                    "product": "Arxspan",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CHEMSPEED TECHNOLOGIES",
+                                    "product": "Arksuite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "eLabNext EPPENDORF GROUP",
+                                    "product": "eLabInventory + eLabJournal",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Xavo",
+                                    "product": "Xavo R3",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Benchling",
+                                    "product": "Benchling Inventory",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -110,12 +1202,91 @@ export const raw = {
                     "description": "Companies that execute drug discovery, preclinical experiments, clinical trials, and/or commercialization solutions as a service as their primary business model. This category is out-of-scope; list below is representative and non-exhaustive.",
                     "subgroups": [
                         {
-                            "name": "",
-                            "products": []
+                            "name": "Pre-Clinical/Non-Clinical Focus",
+                            "products": [
+                                {
+                                    "company": "ThermoFisher SCIENTIFIC",
+                                    "product": "PPD",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "labcorp",
+                                    "product": "Labcorp",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Wuxi AppTec",
+                                    "product": "Wuxi ApptTec",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "charles river",
+                                    "product": "Charles River Laboratories",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "evotec",
+                                    "product": "Evotec",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "eurofins",
+                                    "product": "Eurofins",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
-                            "name": "Pre-Clinical/Non-Clinical Focus",
-                            "products": []
+                            "name": "Clinical Trial Focus",
+                            "products": [
+                                {
+                                    "company": "ICON",
+                                    "product": "ICON",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "IQVIA",
+                                    "product": "IQVIA",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "MEDPACE",
+                                    "product": "Medpace",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "parexel",
+                                    "product": "Parexel",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Syneos Health",
+                                    "product": "Syneos Health",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -124,20 +1295,108 @@ export const raw = {
                     "description": "Enables researchers and laboratory personnel to browse, search, purchase, and review laboratory equipment, supplies, and contract research services from a range of suppliers and vendors in a single location.",
                     "subgroups": [
                         {
-                            "name": "Clinical Trial Focus",
-                            "products": []
-                        },
-                        {
                             "name": "R&D Outsourcing Services",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Descign",
+                                    "product": "Descign",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Contract Laboratory The Laboratory Outsourcing Network",
+                                    "product": "Contract Laboratory",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Cromatic",
+                                    "product": "CROmatic",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Labs Explorer",
+                                    "product": "Labs Explorer",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "scientist.com",
+                                    "product": "Marketplace",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ScienceExchange",
+                                    "product": "Science Exchange Marketplace",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Lab Supplies",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "biohippo",
+                                    "product": "Biohippo",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "QUARTZY",
+                                    "product": "Quartzy",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ZAGENO",
+                                    "product": "Zageno",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Product Search & Comparison",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "bioz",
+                                    "product": "BioZ",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Biocompare",
+                                    "product": "BioCompare",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Add-ons/Integrations",
+                            "products": [
+                                {
+                                    "company": "eLabNext EPPENDORF GROUP",
+                                    "product": "eLabMarketplace",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -146,8 +1405,37 @@ export const raw = {
                     "description": "Access and run experiments remotely from any location with internet access.",
                     "subgroups": [
                         {
-                            "name": "Add-ons/Integrations",
-                            "products": []
+                            "name": "Execute Experiments",
+                            "products": [
+                                {
+                                    "company": "Emerald Cloud Lab",
+                                    "product": "Emerald Cloud Lab",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "EARCTORIS",
+                                    "product": "Ulysses",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "strateos",
+                                    "product": "SmartLab Software",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ENABLE MEDICINE",
+                                    "product": "Enable Lab",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -156,8 +1444,86 @@ export const raw = {
                     "description": "Control and monitor lab equipment and instruments from a single interface, create custom experimental protocols for instrument automation, and integrate with experiment design software for streamlined instrumentation control.",
                     "subgroups": [
                         {
-                            "name": "Execute Experiments",
-                            "products": []
+                            "name": "",
+                            "products": [
+                                {
+                                    "company": "BIOSERO A BICO COMPANY",
+                                    "product": "Green Button Go scheduler",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Waters",
+                                    "product": "Informatics and Software",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Spaero Bio",
+                                    "product": "Spaero",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "RADIX",
+                                    "product": "Slipstream Lab Scheduler, Weaver Lab Complier, Dialect Device Directors",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Synthace",
+                                    "product": "Digital Experiment Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Hudson ROBOTICS",
+                                    "product": "SoftLinx Lab Automation Scheduler",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "HighRes biosolutions",
+                                    "product": "Device Drivers",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ARTIFICIAL",
+                                    "product": "Workflows",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CHEMSPEED TECHNOLOGIES",
+                                    "product": "Arksuite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "RETISOFT SMART APPROACH TO AUTOMATION",
+                                    "product": "Genera Scheduling Software",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "PAA",
+                                    "product": "Overlord Device Drivers",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -167,7 +1533,43 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Veeva",
+                                    "product": "Veeva CDMS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "clinCapture",
+                                    "product": "Captivate EDC + Virtual Data Capture",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "REDCap Research Electronic Data Capture",
+                                    "product": "REDCap Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "MERATIVE",
+                                    "product": "Merative Clinical Development",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "OpenClinica",
+                                    "product": "Electonic Data Capture",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -177,7 +1579,43 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Flywheel",
+                                    "product": "Flywheel Exchange",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "tetrascience",
+                                    "product": "Tetrascience Data Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA ScienceCloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BC Platforms",
+                                    "product": "BC Platforms",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Labii",
+                                    "product": "Labii Project Management",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -187,7 +1625,57 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "DNAnexus",
+                                    "product": "DNAnexus Portals",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ThermoFisher",
+                                    "product": "Lab Software Integration Tools",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SCIGILIAN simplifying Life Science IT",
+                                    "product": "Scigilian Request",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in solico",
+                                    "product": "MolCart Suite (MolCart, GigaSearch, Compounds)",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SCIGILIAN simplifying Life Science IT",
+                                    "product": "Scigilian Analyze",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "orchestra",
+                                    "product": "Orchestra Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Kaleidoscope",
+                                    "product": "Kaleidoscope Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -197,7 +1685,127 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "ELEMENTAL MACHINES",
+                                    "product": "Elemental Machines",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SCIGILIAN simplifying Life Science IT",
+                                    "product": "Scigilian Visualize",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Genedata solutions in silico",
+                                    "product": "Genedata Biopharma Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LAB FORWARD",
+                                    "product": "LabForward LabOperator",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Equipment",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "tetrascience",
+                                    "product": "Tetrascience Data Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Ganymede",
+                                    "product": "Ganymede Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Zontal",
+                                    "product": "Zontal",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LABFELLOWS",
+                                    "product": "LabFellows Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CHEMSPEED TECHNOLOGIES",
+                                    "product": "Arksuite Sofia",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CHEMSPEED TECHNOLOGIES",
+                                    "product": "Autosuite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "sapoi sciences",
+                                    "product": "Sapio Jarvis",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Equipment",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Benchling",
+                                    "product": "Benchling for Lab Automation (& device drivers)",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "MONOMER",
+                                    "product": "Monomer Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "BioBright DarwinSync",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Unitelabs",
+                                    "product": "UniteLabs Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -206,16 +1814,219 @@ export const raw = {
                     "description": "Physical lab equipment, such as robotics, that automates workflows and experiments to enable reproducibility, scalability, and accuracy.",
                     "subgroups": [
                         {
-                            "name": "",
-                            "products": []
-                        },
-                        {
                             "name": "General Liquid Handlers",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "HAMILTON",
+                                    "product": "Automated Liquid Handlers",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Hudson ROBOTICS",
+                                    "product": "Liquid Handling Systems",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "TECAN",
+                                    "product": "Tecan",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "opentrons",
+                                    "product": "OT-2 Lab Robot",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Waters",
+                                    "product": "Andrew+",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "HighRes bio solutions",
+                                    "product": "Prime",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "GILSON",
+                                    "product": "Liquid Handling Systems",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "PAA",
+                                    "product": "S-Lab Plate Handler",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Specialized Equipment & Workstations",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Hudson ROBOTICS",
+                                    "product": "Workcells",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "opentrons",
+                                    "product": "OT-2 Workstations",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CHEMSPEED TECHNOLOGIES",
+                                    "product": "Crystal",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "HAMILTON",
+                                    "product": "Automated Storage Systems",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BERKELEY LIGHTS",
+                                    "product": "Optofluidic Systems",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Automata",
+                                    "product": "Automata LINQ bench",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Automata",
+                                    "product": "Eva",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "PAA",
+                                    "product": "S-CEL Workcells",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "PAA",
+                                    "product": "KX-2 Robot",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "MONOMER",
+                                    "product": "Monomer Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Sensors/Equipment Control",
+                            "products": [
+                                {
+                                    "company": "ELEMENTAL MACHINES",
+                                    "product": "Elemental Machines",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Automated Lab Setup",
+                    "description": "Products that help build/set up automated lab spaces and modules",
+                    "subgroups": [
+                        {
+                            "name": "",
+                            "products": [
+                                {
+                                    "company": "BIOSERO A BICO COMPANY",
+                                    "product": "Green Button Go Scheduler",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "PAA",
+                                    "product": "Harmony Interface",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Spaero Bio",
+                                    "product": "Spaero",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "strateos",
+                                    "product": "SmartLab Software",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ARTIFICIAL",
+                                    "product": "Labs, Assistants",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LABFELLOWS",
+                                    "product": "LabFellows Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "MONOMER",
+                                    "product": "Monomer Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CHEMSPEED TECHNOLOGIES",
+                                    "product": "Arksuite Sofia",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 }
@@ -225,22 +2036,34 @@ export const raw = {
             "title": "Analyze",
             "groups": [
                 {
-                    "title": "Automated Lab Setup",
-                    "description": "Products that help build/set up automated lab spaces and modules",
-                    "subgroups": [
-                        {
-                            "name": "Sensors/Equipment Control",
-                            "products": []
-                        }
-                    ]
-                },
-                {
                     "title": "Raw Compute/Storage Providers",
                     "description": "Offer cloud-based computing and storage resources that can be used for data processing, machine learning, and other computational tasks without the need for large-scale on-premise infrastructure. This category is out-of-scope; list below is representative and non-exhaustive.",
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "amazon",
+                                    "product": "AWS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Google",
+                                    "product": "Google Cloud Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Microsoft",
+                                    "product": "Azure",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -249,20 +2072,269 @@ export const raw = {
                     "description": "Tools to organize, sort, and surface relevant data and metadata, with a focus on larger or more heterogenous/complex datasets than generally captured by LIMS. Often a data [insert-body-of-water-reference].",
                     "subgroups": [
                         {
-                            "name": "",
-                            "products": []
-                        },
-                        {
                             "name": "Chemistry Research",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Instant JChem",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "MolCart Suite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "General Research",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "CODE OCEAN",
+                                    "product": "Public Capsule Repository",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Ganymede",
+                                    "product": "Ganymede Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA ScienceCloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Scientific Intelligence",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "databricks",
+                                    "product": "Databricks Lakehouse Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Lamin",
+                                    "product": "LaminDB",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "aspen biosciences",
+                                    "product": "Pipeline",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "sapio sciences",
+                                    "product": "Sapio Jarvis",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Clarivate",
+                                    "product": "Cortellis Metacore",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Sphinx Bio",
+                                    "product": "Sphinx Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Kaleidoscope",
+                                    "product": "Kaleidoscope Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Quilt",
+                                    "product": "Quilt",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Imaging Research",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "arivis a ZEISS company",
+                                    "product": "arivis Hub + arivis Pro",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Flywheel",
+                                    "product": "Flywheel Discovery",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ENABLE MEDICINE",
+                                    "product": "Enable Operating System",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "-omics Research",
+                            "products": [
+                                {
+                                    "company": "10X GENOMICS",
+                                    "product": "10x Genomics Cloud Analysis",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Betteromics",
+                                    "product": "BetterOmics platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BROAD INSTITUTE",
+                                    "product": "Terra",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DNAnexus",
+                                    "product": "DNAnexus Apollo",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DNASTACK",
+                                    "product": "Publisher",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "eagle genomics",
+                                    "product": "e[datascience]",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "lucidata",
+                                    "product": "OmixAtlas",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "FORM BIO",
+                                    "product": "Form Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "illumina",
+                                    "product": "BaseSpace",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "QIAGEN",
+                                    "product": "Omicsoft",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "NETRIAS",
+                                    "product": "Netrias ComNbeitnraiatsorial Design Model",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "pluto",
+                                    "product": "Pluto Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Seven Bridges",
+                                    "product": "ARIA",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SNTHESIS",
+                                    "product": "Snthesis platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "tetrascience",
+                                    "product": "Tetrascience Data Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "watershed",
+                                    "product": "Omics Bench",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Zetta Genomics",
+                                    "product": "XetaBase",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "basepair",
+                                    "product": "Basepair Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -271,28 +2343,258 @@ export const raw = {
                     "description": "Represent and visualize data to help segment data, find trends, validate or refute hypotheses, and communicate their work to others. Contains life science-specific and industry-agnostic tools used in life science visualization.",
                     "subgroups": [
                         {
-                            "name": "-omics Research",
-                            "products": []
-                        },
-                        {
                             "name": "Flow Cytometry Datasets",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "FCS Express",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "Omiq and Cytapex",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "FLOWJO",
+                                    "product": "Flowjo",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ZONTAL",
+                                    "product": "Zontal",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "LC/UV/ MS & NMR Datasets",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "ACD / LABS",
+                                    "product": "Spectrus Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "Protein Metrics",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ThermoFisher SCIENTIFIC",
+                                    "product": "Chromeleon CDS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Small Datasets",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "CDD",
+                                    "product": "CDD Vault Visualization",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "GraphPad Prism",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Genedata solutions in silico",
+                                    "product": "Genedata Screener",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "plotly",
+                                    "product": "Plotly",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SCIGILIAN simplifying Life Science IT",
+                                    "product": "Scigilian Visualize",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Sphinx Bio",
+                                    "product": "Sphinx Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Large Datasets",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "plotly",
+                                    "product": "Plotly + Dash Enterprise",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Tableau Software",
+                                    "product": "Tableau",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "TIBCO",
+                                    "product": "Spotfire",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Image Datasets",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "arivis a ZEISS company",
+                                    "product": "arivis Pro; VR Pro; Hub",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Core Life Analytics",
+                                    "product": "StratoMineR",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ENABLE MEDICINE",
+                                    "product": "Enable Operating System",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "indica labs",
+                                    "product": "Halo AI",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "QuPath",
+                                    "product": "QuPath",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "VISIOPHARM",
+                                    "product": "VisioPharm",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "-Omics Datasets",
+                            "products": [
+                                {
+                                    "company": "10X GENOMICS",
+                                    "product": "Loupe Browser",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Partek turning data into discovery",
+                                    "product": "Partek Flow",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "varsome",
+                                    "product": "Varsome",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "eagle genomics",
+                                    "product": "e[exploration]",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ROSALIND",
+                                    "product": "Rosalind Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "Geneious + SnapGene",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ADVAITA next generation bioinformatics",
+                                    "product": "iVariantGuide",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CytoReason",
+                                    "product": "CytoReason Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "basepair",
+                                    "product": "Basepair Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Kaleidoscope",
+                                    "product": "Kaleidoscope Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -301,12 +2603,140 @@ export const raw = {
                     "description": "Environments and tools for computational biologists/bioinformaticians to run scripts, check the outputs, and then modify, either for prototyping workflows or exploring data interactively post-workflow. Functionality varies from a simple wrapper around Jupyter Notebooks for Python to fuller-featured development environments.",
                     "subgroups": [
                         {
-                            "name": "-Omics Datasets",
-                            "products": []
+                            "name": "Life Sciences-Specific",
+                            "products": [
+                                {
+                                    "company": "ANACONDA",
+                                    "product": "Anaconda Enterprise",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BROAD INSTITUTE",
+                                    "product": "Terra",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CODE OCEAN",
+                                    "product": "Code Ocean Computational Workbench",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DNAnexus",
+                                    "product": "DNAnexus Apollo",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DNAnexus",
+                                    "product": "DNAnexus Titan",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "globus genomics",
+                                    "product": "Globus Genomics",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "hypahub",
+                                    "product": "HypaHub",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LatchBio",
+                                    "product": "Latch Pods",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "METACELL",
+                                    "product": "MetaCell Cloud Workspce",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SevenBridges",
+                                    "product": "Seven Bridges Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "watershed",
+                                    "product": "Omics Bench",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "nuvolos",
+                                    "product": "Nuvolos",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DeepOrigin",
+                                    "product": "ComputeBench",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ENABLE MEDICINE",
+                                    "product": "Enable BIOS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ONTOLOGIC",
+                                    "product": "Tool Runner",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
-                            "name": "Life Sciences-Specific",
-                            "products": []
+                            "name": "General",
+                            "products": [
+                                {
+                                    "company": "databricks",
+                                    "product": "Databricks Lakehouse Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Saturn Cloud",
+                                    "product": "Saturn Cloud",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Ganymede",
+                                    "product": "Ganymede Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -315,8 +2745,44 @@ export const raw = {
                     "description": "Specific bioinformatics tools/packages that are frequently used and very well-known. This category is out-of-scope; list below is representative and non-exhaustive.",
                     "subgroups": [
                         {
-                            "name": "General",
-                            "products": []
+                            "name": "",
+                            "products": [
+                                {
+                                    "company": "BROAD INSTITUTE",
+                                    "product": "GATK (Genome Analysis Toolkit)",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Baker Lab",
+                                    "product": "Rosetta",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "hail",
+                                    "product": "Hail Query + Batcj",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "NIH",
+                                    "product": "BLAST (Basic Local Alignment Search Tool)",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "plotly",
+                                    "product": "Plotly",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -326,7 +2792,36 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "GitHub",
+                                    "product": "GitHub",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ANACONDA",
+                                    "product": "Conda",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CODE OCEAN",
+                                    "product": "Code Ocean Hub",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "nextflow",
+                                    "product": "NextFlow",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -336,7 +2831,57 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Open Targets",
+                                    "product": "OpenTargets",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "RECURSION",
+                                    "product": "Recursion RxRx Datasets",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "varsome",
+                                    "product": "Varsome",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "JGI JOINT GENOME INSTITUTE",
+                                    "product": "Integrated Microbial Genomes (IMG)",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "EMBL-EBI",
+                                    "product": "Ensembl",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "UniProt",
+                                    "product": "UniProt",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "EMBL-EBI",
+                                    "product": "Pfam",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -345,16 +2890,159 @@ export const raw = {
                     "description": "Collect data from internal, private, or public sources, and integrate it into one centralized place to enable researchers to quickly access and analyze relevant data. Access to datasets is paid.",
                     "subgroups": [
                         {
-                            "name": "",
-                            "products": []
-                        },
-                        {
                             "name": "Biological",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "DNA nexus",
+                                    "product": "UK Biobank Research Analysis",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "eagle genomics",
+                                    "product": "e[marketplace]",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "lucidata",
+                                    "product": "OmixAtlas",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ENABLE MEDICINE",
+                                    "product": "Enable Operating System",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Lhasa Carcinogenicity Database",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "QIAGEN",
+                                    "product": "OmicSoft Land Explorer",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Racho biosciences The Data Science Services Company",
+                                    "product": "RanchoKb",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "varsome",
+                                    "product": "Varsome Premium",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ADVAITA next generation bioinformatics",
+                                    "product": "iBioGuide",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BioBox",
+                                    "product": "Knowledge Graph Search",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "OpenEye SCIENTIFIC",
+                                    "product": "Curated Databases",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Kaleidoscope",
+                                    "product": "Kaleidoscope Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Business Insights",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Clarivate",
+                                    "product": "Cortellis Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "GlobalData",
+                                    "product": "Pharma Intelligence",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Evaluate Pharma",
+                                    "product": "Evaluate Pharma",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "lifebit",
+                                    "product": "Lifebit REAL",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Chemical",
+                            "products": [
+                                {
+                                    "company": "CDD",
+                                    "product": "CDD PharmaKB",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "ChemCurator",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Content Databases",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Vitic",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -363,12 +3051,77 @@ export const raw = {
                     "description": "Tools that enable segmentation and analysis of cellular image-based datasets, including in light/fluorescence microscopy, histology staining, immunohistochemistry labeling, and spatial-omics analyses.",
                     "subgroups": [
                         {
-                            "name": "Chemical",
-                            "products": []
+                            "name": "Open Source",
+                            "products": [
+                                {
+                                    "company": "NIH",
+                                    "product": "ImageJ",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "QuPath",
+                                    "product": "QuPath",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CellProfiler cell image analysis software",
+                                    "product": "CellProfiler",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
-                            "name": "Open Source",
-                            "products": []
+                            "name": "Proprietary",
+                            "products": [
+                                {
+                                    "company": "Quorum",
+                                    "product": "Volocity",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "OXFORD INSTRUMENTS",
+                                    "product": "Imaris",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Core Life Analytics",
+                                    "product": "CPUltra + StratoMinerR",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "indica labs",
+                                    "product": "Halo AI",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "VISIOPHARM",
+                                    "product": "VisioPharm",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ENABLE MEDICINE",
+                                    "product": "Enable BIOS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -377,24 +3130,348 @@ export const raw = {
                     "description": "Enables execution of computational workflows or pipelines that have already been built or optimized. Tools listed are targeted at different user groups and generally trade off between coding knowledge requirements and customizability.",
                     "subgroups": [
                         {
-                            "name": "Proprietary",
-                            "products": []
-                        },
-                        {
                             "name": "Code-based, high customization",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "BROAD INSTITUTE",
+                                    "product": "Terra",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DNAnexus",
+                                    "product": "DNAnexus Titan",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DNASTACK",
+                                    "product": "Workbench",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "eagle genomics",
+                                    "product": "e[SDK]",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Google",
+                                    "product": "Google Cloud Composer",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "hypahub",
+                                    "product": "HypaHub",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LatchBio",
+                                    "product": "Latch SDK",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "lifebit",
+                                    "product": "LifeBit CloudOS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Microsoft",
+                                    "product": "Microsoft Genomics",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "redun",
+                                    "product": "redun",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "seqeralabs",
+                                    "product": "Nextflow Tower",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SevenBridges",
+                                    "product": "RHEO",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "snakemake",
+                                    "product": "Snakemake",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ONTOLOGIC",
+                                    "product": "Tool Runner",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Code-flexible, variable customization",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "arivis a ZEISS company",
+                                    "product": "arivis Hub",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Arvados",
+                                    "product": "Arvados Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BioBox",
+                                    "product": "Workbench",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Low-code/no-code, low customization, sequencing-based data",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "10X GENOMICS",
+                                    "product": "10x Genomics Cloud Analysis",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "amazon",
+                                    "product": "AWS Omics",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Datirium",
+                                    "product": "SciDap",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DNAnexus",
+                                    "product": "DNAnexus Apollo",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Drift Bio",
+                                    "product": "Drift Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "globus genomics",
+                                    "product": "Globus Genomics (also galaxy)",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "illumina",
+                                    "product": "Illumina GRAGEN",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "jmp",
+                                    "product": "JMP Genomics",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "LatchBio",
+                                    "product": "Latch Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Partek turning data into discovery",
+                                    "product": "Partek Flow",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "QIAGEN",
+                                    "product": "CLC Genomics Workbench",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ROSALIND",
+                                    "product": "Rosalind Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SevenBridges",
+                                    "product": "GRAF",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "basepair",
+                                    "product": "Basepair Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Low-code/no-code, low customization, sequencing-based + protein/proteomics/ biomarker",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "evotec",
+                                    "product": "Evotec PanHunter",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "FORM BIO",
+                                    "product": "Form Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Galaxy",
+                                    "product": "Galaxy",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "pluto",
+                                    "product": "Pluto Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SevenBridges",
+                                    "product": "ARIA",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "NETRIAS",
+                                    "product": "Netrias Active Discovery Engine",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Workflow benchmarking",
+                            "products": [
+                                {
+                                    "company": "magna labs INFORMATICS OPS",
+                                    "product": "Miqa",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "title": "Data Cleaning/Standardization",
+                    "description": "Process and curate raw data from public or private sources to ensure that data adhere to specific standards and are associated with relevant metadata/ontologies to improve the usability of the data.",
+                    "subgroups": [
+                        {
+                            "name": "",
+                            "products": [
+                                {
+                                    "company": "SNTHESIS",
+                                    "product": "Snthesis platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "lucidata",
+                                    "product": "Polly",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "MANIFOLD",
+                                    "product": "Manifold.ai",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Rancho biosciences The Data Science Services Company",
+                                    "product": "Data Curation",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BC Platforms",
+                                    "product": "BC Platforms",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "NETRIAS",
+                                    "product": "Netrias PathEngine",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 }
@@ -404,42 +3481,213 @@ export const raw = {
             "title": "Simulate",
             "groups": [
                 {
-                    "title": "Data Cleaning/Standardization",
-                    "description": "Process and curate raw data from public or private sources to ensure that data adhere to specific standards and are associated with relevant metadata/ontologies to improve the usability of the data.",
-                    "subgroups": [
-                        {
-                            "name": "Workflow benchmarking",
-                            "products": []
-                        }
-                    ]
-                },
-                {
                     "title": "Small Molecule Structure/Properties",
-                    "description": "isualize and assess small molecules for their properties (e.g., solubility, synthesizability, crystal properties) based on a chemical composition or structure",
+                    "description": "Visualize and assess small molecules for their properties (e.g., solubility, synthesizability, crystal properties) based on a chemical composition or structure",
                     "subgroups": [
-                        {
-                            "name": "",
-                            "products": []
-                        },
                         {
                             "name": "Structure Drawing",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "ACD / LABS",
+                                    "product": "ChemSketch",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Marvin",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Chemicalize",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Structure Prediction & Representation",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Chemical naming and structure Chemaxon conversion tool",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Chemical Structure Representation Toolkit",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "ICM Chemist Pro",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "iMolvie",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "LigPrep",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "ConfGen",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Structure Design & Variation",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Design Hub",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "JKlustor",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Markush Editor",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "Core Hopping",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemify",
+                                    "product": "Chemify.io",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Chemical Properties Prediction",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Effiris",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "Jaguar",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "AutoQSAR",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "Active learning Applications",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "DeepAutoQSAR",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "Field-Based QSAR",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "Synthesis & Degradation Pathways",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Zeneth",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Reactor",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Multi-purpose/ General",
+                            "products": [
+                                {
+                                    "company": "Chemical Computing Group",
+                                    "product": "Molecular Operating Environment",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Materials Studio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "OpenEye SCIENTIFIC",
+                                    "product": "Small Molecule Discovery Suite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -448,12 +3696,84 @@ export const raw = {
                     "description": "Predicts the static binding configuration between a small molecule compound and protein structure by simulating the interactions of individual atoms. Primarily used in early-stage drug development as a starting point.",
                     "subgroups": [
                         {
-                            "name": "Multi-purpose/ General",
-                            "products": []
+                            "name": "Open Source",
+                            "products": [
+                                {
+                                    "company": "Baker Lab",
+                                    "product": "Rosetta",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "RBVI",
+                                    "product": "UCSF Chimera",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "MIT JAMEEL CLINIC",
+                                    "product": "DiffDock",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
-                            "name": "Open Source",
-                            "products": []
+                            "name": "Proprietary",
+                            "products": [
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Discovery Studio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "ICM-VLS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "ICM-PRO",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "Glide",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemical Computing Group",
+                                    "product": "Molecular Operating Environment",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "OpenEye SCIENTIFIC",
+                                    "product": "Gigadock & Gigadock Wrap",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BiosimAI X DeepOrigin",
+                                    "product": "BiosimDock / BiosimScreen",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -462,12 +3782,98 @@ export const raw = {
                     "description": "\u201cDocking\u201d but with modeling of energy-based movements over time - takes different conformations of small molecules and a protein to determine the free energy; considered more accurate/predictive than docking, but computationally much more expensive and generally limited to lead optimization.",
                     "subgroups": [
                         {
-                            "name": "Proprietary",
-                            "products": []
+                            "name": "Open Source",
+                            "products": [
+                                {
+                                    "company": "OpenMM",
+                                    "product": "OpenMM",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "GROMACS FAST.FLEXIBLE.FREE",
+                                    "product": "GROMACS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "AMBER",
+                                    "product": "AMBER",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
-                            "name": "Open Source",
-                            "products": []
+                            "name": "Proprietary",
+                            "products": [
+                                {
+                                    "company": "Chemical Computing Group",
+                                    "product": "Molecular Operating Environment",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "OpenEye SCIENTIFIC",
+                                    "product": "Orion Molecular Design Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "Desmond",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "IFD-MD",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Discovery Studio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "BioLuminate",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "TandemAI",
+                                    "product": "TandemAI",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "OPEN BIOSIM",
+                                    "product": "BioSimSpace",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BiosimAI X DeepOrigin",
+                                    "product": "BiosimMD",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -476,8 +3882,79 @@ export const raw = {
                     "description": "High-throughput docking of small-molecule compounds to a binding pocket in protein structure; used in early stage drug discovery to generate small molecule leads as a starting point in drug development",
                     "subgroups": [
                         {
-                            "name": "Proprietary",
-                            "products": []
+                            "name": "",
+                            "products": [
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "JKlustor",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Screen Suite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemical Computing Group",
+                                    "product": "Molecular Operating Environment",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemotargets",
+                                    "product": "CLARITY",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Effiris",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "ICM-VLS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "Clide",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "Phase",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "OpenEye SCIENTIFIC",
+                                    "product": "Small Molecule Discovery Suite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BiosimAI X DeepOrigin",
+                                    "product": "BiosimScreen",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -486,12 +3963,112 @@ export const raw = {
                     "description": "Visualizing or predicting 3D structure of a protein based on the amino acid sequence and other known physical properties.",
                     "subgroups": [
                         {
-                            "name": "",
-                            "products": []
+                            "name": "Visualization",
+                            "products": [
+                                {
+                                    "company": "Chemical Computing Group",
+                                    "product": "Molecular Operating Environment",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "PyMOL",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "iMolview",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "RBVi",
+                                    "product": "UCSF Chimera",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Sphinx Bio",
+                                    "product": "Sphinx Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "PDBe Protein Data Bank in Europe, Elixir CZECH REPUBLIC, CEITEC Central European Institute of Technology BRNO | CZECH REPUBLIC",
+                                    "product": "Molstar",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "ICM Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "ICM-Pro",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
-                            "name": "Visualization",
-                            "products": []
+                            "name": "Structure / Folding Prediction",
+                            "products": [
+                                {
+                                    "company": "Baker Lab",
+                                    "product": "Rosetta",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DeepMind",
+                                    "product": "AlphaFold",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "Prime",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Open Molecular Software Foundation",
+                                    "product": "OpenFold",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Meta",
+                                    "product": "ESMFold",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "BiosimAI X DeepOrigin",
+                                    "product": "AWSEM 2.0",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -500,8 +4077,51 @@ export const raw = {
                     "description": "Represent DNA and RNA sequence to enable construct design, guide RNA design, or design of other DNA and RNA-based constructs.",
                     "subgroups": [
                         {
-                            "name": "Structure / Folding Prediction",
-                            "products": []
+                            "name": "",
+                            "products": [
+                                {
+                                    "company": "Benchling",
+                                    "product": "Plasmid/Construct Design Tool",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Dotmatics",
+                                    "product": "Geneious + SnapGene",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "GENEMOD",
+                                    "product": "Molecular Biology",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "ICM Bio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "sapio sciences",
+                                    "product": "Sapio ELN",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "teselagen BIOTECHNOLOGY",
+                                    "product": "Open Vector Editor",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -511,7 +4131,22 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Chemical Computing Group",
+                                    "product": "Molecular Operating Environment",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Baker Lab",
+                                    "product": "Rosetta",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -521,7 +4156,36 @@ export const raw = {
                     "subgroups": [
                         {
                             "name": "",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Mirabilis",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SimulationsPlus",
+                                    "product": "DDDPlus",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "OpenEye SCIENTIFIC",
+                                    "product": "Formulations Suite",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA COSMOtherm",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -530,12 +4194,98 @@ export const raw = {
                     "description": "Models cellular pathways, which can be either metabolic or regulatory, in response to external stimuli or perturbations.",
                     "subgroups": [
                         {
-                            "name": "",
-                            "products": []
+                            "name": "Discovery",
+                            "products": [
+                                {
+                                    "company": "Chemotargets",
+                                    "product": "CLARITY",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Clarivate",
+                                    "product": "Cortellis Metacore",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Clarivate",
+                                    "product": "Drug Discovery Intelligence Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Cellworks",
+                                    "product": "Computational Omics Biology Model",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "COPASI",
+                                    "product": "COPASI (Complex Pathway Simulator)",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "QIAGEN",
+                                    "product": "QIAGEN IPA",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "ADVAITA next generation bioinformatics",
+                                    "product": "iBioGuid",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "THINKINGNODELIFE.ai Unleashing the Power of AI Reasoning to Understand Life",
+                                    "product": "ThinkingNode Life Science",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
-                            "name": "Discovery",
-                            "products": []
+                            "name": "Safety",
+                            "products": [
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Meteor Nexus",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "METACELL",
+                                    "product": "MetaCell Pharma",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "seachange PHARMACEUTICALS",
+                                    "product": "SEAware",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SimulationPlus",
+                                    "product": "ADMET-Predictor",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -544,8 +4294,72 @@ export const raw = {
                     "description": "Predict the potential toxicity of a compound or drug candidate by analyzing its interactions with cellular components and pathways, and identifying potential adverse effects.",
                     "subgroups": [
                         {
-                            "name": "Safety",
-                            "products": []
+                            "name": "",
+                            "products": [
+                                {
+                                    "company": "ACD / Labs",
+                                    "product": "Percepta Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemaxon",
+                                    "product": "Compliance Checker & ChemTS",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemotargets",
+                                    "product": "CLARITY",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Derek Nexus",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Vitic",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Zeneth",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "molsoft molecules in silico",
+                                    "product": "MolScreen",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SimulationsPlus",
+                                    "product": "DILIsym QST",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Clarivate",
+                                    "product": "Drug Discovery Intelligence Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -554,8 +4368,30 @@ export const raw = {
                     "description": "Simulates the interactions between cells, tissues, or organs to understand biology and study impact of interventions.",
                     "subgroups": [
                         {
-                            "name": "",
-                            "products": []
+                            "name": "---",
+                            "products": [
+                                {
+                                    "company": "CytoReason",
+                                    "product": "CytoReason Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "IT IS",
+                                    "product": "o2S2PARC",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SP OPEN SYSTEMS PHARMACOLOGY",
+                                    "product": "PK-SIM",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         }
                     ]
                 },
@@ -564,7752 +4400,136 @@ export const raw = {
                     "description": "Predicts the pharmacokinetics (how the body processes a drug), pharmacodynamics (how the drug affects the body), and dose-response relationship, to facilitate drug discovery and optimization.",
                     "subgroups": [
                         {
-                            "name": "",
-                            "products": []
-                        },
-                        {
                             "name": "PK/PD",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "CERTARA",
+                                    "product": "Certara Phoenix",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SimulationsPlus",
+                                    "product": "MonolixSuite PK/PD",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "SP OPEN SYSTEMS PHARMACOLOGY",
+                                    "product": "PK-SIM",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "ADME(T)",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "ACD / Labs",
+                                    "product": "Percepta Platform",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "CERTARA",
+                                    "product": "Certara Simcyp",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA COSMOtherm",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Effiris",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Schr\u00f6dinger",
+                                    "product": "QikProp",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "Chemotargets",
+                                    "product": "CLARITY",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "QSAR",
-                            "products": []
+                            "products": [
+                                {
+                                    "company": "Lhasa Limited",
+                                    "product": "Sarah Nexus",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                },
+                                {
+                                    "company": "DASSAULT SYSTEMES",
+                                    "product": "BIOVIA Discovery Studio",
+                                    "company_url": null,
+                                    "product_url": null,
+                                    "image_url": null
+                                }
+                            ]
                         },
                         {
                             "name": "QSP/Dosage",
-                            "products": []
-                        },
-                        {
-                            "name": "Organ-Specific",
                             "products": [
                                 {
-                                    "company": "CDD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD Vault",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Notebook",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labguru",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ELN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM-Scarab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scicord",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scicord ELN/LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "revvity signals",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Signals Notebook",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Notebook",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Protein Metrics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Genemod",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Notebook",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "sapio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sapio ELN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Biosero",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Green Button Go Lab Experience",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Workbook",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabVentage",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabVantage ELN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabTwin",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Digital Lab Assistant",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabVoice",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabVoice Smart Device",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arxspan",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arxspan",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Descign",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Descign",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabArchives ELN for Research",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LAB FORWARD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabForward LabFolder",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Microsoft Notion Atlassian",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OneNote/Notion/Atlassian",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLabNext",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLab Journal",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Limmi",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Limmi Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SciNote",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ELN Notebook",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Colabra",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Colabra",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scispot",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lab Operating System",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labii",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labii ELN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ACD/Labs",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Spectrus Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD Vault",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Design Hub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Reactor",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Revvity signals",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Signals Notebook",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molecular Biology",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Botmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Geneious",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Omiq and Cytapex",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SnapGene",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GENEMOD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molecular Biology",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "sapio sciences",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sapio ELN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "revvity signals",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Signals Notebook",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "torx connected chemistry",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Trox Design",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ARTIFICIAL",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Assistants",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOSERO A BICO COMPANY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Green Button Go Lab Experience",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LABFELLOWS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabFellows Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RADIX",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Easel Protocol Builder",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Synthace",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Digital Experiment Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CHEMSPEED TECHNOLOGIES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Autosuite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Waters",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OneLab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GILSON",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Gilson Software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Automata",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Automata LINQ Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "revvity signals",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "VitroVivo",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "arivis a ZEISS company",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "arivis Hub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "NETRIAS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Netrias Combinatorial Design Model",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Study Design & Tracking",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Physiomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Physiomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Aq",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Aquarium Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arxspan A division of Bruker",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arxspan",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "UniteLabs",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "UniteLabs Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM-Scarab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD Vault",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Compound registration",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Direct",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SCICORD ELN/LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scicord ELN/LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling Bioregistry",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Geneious",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Protein Metrics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CellPort Powering Breakthroughs",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Cellport",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "sapio sciences",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sapio LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabKey",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabKey",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LABWARE Results Count",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabWare LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ThermiFisher SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SampleManager LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SCIGILIAN simplifying Life Science IT",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scigilian Store",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Samples",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ThermoFisher SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Watson LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOSERO A BICO COMPANY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Green Button Go Orchestrator",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Sample for Assay",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ThermoFisher SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chromeleon CDS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RADIX",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Rainbow Lab Database",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Waters",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Informatics and Software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Assay",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ThermoFisher SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Core LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Genedata solutions in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Biopharma Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labguru",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabVantage",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabVantage",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LAB FELLOWS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabFellows Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Aq",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Aquarium Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Descign",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Descign",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "titian",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Mosaic",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arxspan A division of Bruker",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arxspan",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLabNext EPPENDORF GROUP",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLabJournal",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Limmi",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Limmi Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "STARLIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "StarLIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Simplicis",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ledger LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SciNote",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ELN Notebook",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Colabra",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Colabra",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Opvia",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Opvia",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Autoscribe INFORMATICS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Matrix LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scispot",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lab Operating System",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labii",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labii LIMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "bioz",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BioZ",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "protocols.io",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Protocols.io",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "scifind",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SciFind",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLabNext EPPENDORF GROUP",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLabJournal",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Waters",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OneLab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Aq",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Aquarium Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Reactor",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Omiq and Cytapex",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ARTIFICIAL",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabOps",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Genedata solutions in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Biopharma Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LAB FORWARD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabForward LabOperator",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labguru",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Equipment Management",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabArchives Scheduler",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LABFELLOWS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabFellows Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SCIGILIAN simplifying Life Science IT",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scigilian Analyze",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ELEMENTAL MACHINES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Elemental Machines",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling for Lab Automation (& device drivers)",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Equipment",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOSERO A BICO COMPANY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Green Button Go Scheduler",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOSERO A BICO COMPANY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Green Button Go Orchestrator",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOSERO A BICO COMPANY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Green Button Go Insights",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RADIX",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Weaver Lab Compiler, Slipstream Lab Scheduler, Rainbow Lab Database",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ThermoFisher SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chromeleon CDS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SCIGILIAN simplifying Life Science IT",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scigilian Request",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Aq",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Aquarium Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CHEMSPEED TECHNOLOGIES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arksuite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "EQUICON",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "niceLAB Scheduler",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabTwin",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Digital Lab Assistant",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabVoice",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabVoice Smart Device",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RETISOFT SMART APPROACH TO AUTOMATION",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Genera Scheduling Software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sigsense",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sigsense Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CHEMSPEED TECHNOLOGIES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Autosuite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Xavo",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Xavo R3",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PAA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Overlord Scheduling Software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Hudson ROBOTICS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Softlinx Player",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "HighRes biosolutions",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Cellario",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD Vault",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SCIGILIAN simplifying Life Science IT",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scigilian Store",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GENEMOD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Inventory",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LAB FORWARD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabForward LabRegister",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA CISPro",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BRIOSERO A BICO COMPANY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Green Button Go Orchestrator",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QUARTZY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Quartzy",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LABFELLOWS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabFellows Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labguru",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Inventory Management",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labii",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labii Inventory Management",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arxspan A division of Bruker",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arxspan",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CHEMSPEED TECHNOLOGIES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arksuite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLabNext EPPENDORF GROUP",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLabInventory + eLabJournal",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Xavo",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Xavo R3",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling Inventory",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ThermoFisher SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PPD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "labcorp",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labcorp",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Wuxi AppTec",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Wuxi ApptTec",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "charles river",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Charles River Laboratories",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "evotec",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Evotec",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eurofins",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Eurofins",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICON",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICON",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "IQVIA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "IQVIA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MEDPACE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Medpace",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "parexel",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Parexel",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Syneos Health",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Syneos Health",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Descign",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Descign",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Contract Laboratory The Laboratory Outsourcing Network",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Contract Laboratory",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Cromatic",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CROmatic",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labs Explorer",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labs Explorer",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "scientist.com",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Marketplace",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ScienceExchange",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Science Exchange Marketplace",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "biohippo",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Biohippo",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QUARTZY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Quartzy",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ZAGENO",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Zageno",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "bioz",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BioZ",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Biocompare",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BioCompare",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLabNext EPPENDORF GROUP",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eLabMarketplace",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Emerald Cloud Lab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Emerald Cloud Lab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "EARCTORIS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ulysses",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "strateos",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SmartLab Software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ENABLE MEDICINE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Enable Lab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOSERO A BICO COMPANY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Green Button Go scheduler",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Waters",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Informatics and Software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Spaero Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Spaero",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RADIX",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Slipstream Lab Scheduler, Weaver Lab Complier, Dialect Device Directors",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Synthace",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Digital Experiment Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Hudson ROBOTICS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SoftLinx Lab Automation Scheduler",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "HighRes biosolutions",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Device Drivers",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ARTIFICIAL",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Workflows",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CHEMSPEED TECHNOLOGIES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arksuite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RETISOFT SMART APPROACH TO AUTOMATION",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Genera Scheduling Software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PAA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Overlord Device Drivers",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Veeva",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Veeva CDMS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "clinCapture",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Captivate EDC + Virtual Data Capture",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "REDCap Research Electronic Data Capture",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "REDCap Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MERATIVE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Merative Clinical Development",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenClinica",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Electonic Data Capture",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Flywheel",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Flywheel Exchange",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "tetrascience",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Tetrascience Data Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA ScienceCloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BC Platforms",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BC Platforms",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labii",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labii Project Management",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus Portals",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ThermoFisher",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lab Software Integration Tools",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SCIGILIAN simplifying Life Science IT",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scigilian Request",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in solico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MolCart Suite (MolCart, GigaSearch, Compounds)",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SCIGILIAN simplifying Life Science IT",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scigilian Analyze",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "orchestra",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Orchestra Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ELEMENTAL MACHINES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Elemental Machines",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SCIGILIAN simplifying Life Science IT",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scigilian Visualize",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Genedata solutions in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Genedata Biopharma Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LAB FORWARD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabForward LabOperator",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Equipment",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "tetrascience",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Tetrascience Data Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Zontal",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Zontal",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LABFELLOWS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabFellows Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CHEMSPEED TECHNOLOGIES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arksuite Sofia",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CHEMSPEED TECHNOLOGIES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Autosuite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "sapoi sciences",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sapio Jarvis",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Equipment",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling for Lab Automation (& device drivers)",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MONOMER",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Monomer Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BioBright DarwinSync",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Unitelabs",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "UniteLabs Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "HAMILTON",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Automated Liquid Handlers",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Hudson ROBOTICS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Liquid Handling Systems",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "TECAN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Tecan",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "opentrons",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OT-2 Lab Robot",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Waters",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Andrew+",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "HighRes bio solutions",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Prime",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GILSON",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Liquid Handling Systems",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PAA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "S-Lab Plate Handler",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Hudson ROBOTICS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Workcells",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "opentrons",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OT-2 Workstations",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CHEMSPEED TECHNOLOGIES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Crystal",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "HAMILTON",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Automated Storage Systems",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BERKELEY LIGHTS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Optofluidic Systems",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Automata",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Automata LINQ bench",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Automata",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Eva",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PAA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "S-CEL Workcells",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PAA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "KX-2 Robot",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MONOMER",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Monomer Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ELEMENTAL MACHINES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Elemental Machines",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOSERO A BICO COMPANY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Green Button Go Scheduler",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PAA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Harmony Interface",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Spaero Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Spaero",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "strateos",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SmartLab Software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ARTIFICIAL",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Labs, Assistants",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LABFELLOWS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LabFellows Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MONOMER",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Monomer Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CHEMSPEED TECHNOLOGIES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arksuite Sofia",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "amazon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "AWS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Google",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Google Cloud Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Microsoft",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Azure",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Instant JChem",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MolCart Suite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CODE OCEAN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Public Capsule Repository",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA ScienceCloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Scientific Intelligence",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "databricks",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Databricks Lakehouse Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lamin",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LaminDB",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "aspen biosciences",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Pipeline",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "sapio sciences",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sapio Jarvis",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Clarivate",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Cortellis Metacore",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sphinx Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sphinx Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Quilt",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Quilt",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "arivis a ZEISS company",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "arivis Hub + arivis Pro",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Flywheel",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Flywheel Discovery",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ENABLE MEDICINE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Enable Operating System",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "10X GENOMICS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "10x Genomics Cloud Analysis",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Betteromics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BetterOmics platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BROAD INSTITUTE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Terra",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus Apollo",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNASTACK",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Publisher",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eagle genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "e[datascience]",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "lucidata",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OmixAtlas",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "FORM BIO",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Form Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "illumina",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BaseSpace",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QIAGEN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Omicsoft",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "NETRIAS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Netrias ComNbeitnraiatsorial Design Model",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "pluto",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Pluto Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Seven Bridges",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ARIA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SNTHESIS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Snthesis platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "tetrascience",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Tetrascience Data Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "watershed",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Omics Bench",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Zetta Genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "XetaBase",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "basepair",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Basepair Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "FCS Express",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Omiq and Cytapex",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "FLOWJO",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Flowjo",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ZONTAL",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Zontal",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ACD / LABS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Spectrus Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Protein Metrics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ThermoFisher SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chromeleon CDS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD Vault Visualization",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GraphPad Prism",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Genedata solutions in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Genedata Screener",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "plotly",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Plotly",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SCIGILIAN simplifying Life Science IT",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Scigilian Visualize",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sphinx Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sphinx Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "plotly",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Plotly + Dash Enterprise",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Tableau Software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Tableau",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "TIBCO",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Spotfire",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "arivis a ZEISS company",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "arivis Pro; VR Pro; Hub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Core Life Analytics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "StratoMineR",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ENABLE MEDICINE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Enable Operating System",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "indica labs",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Halo AI",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QuPath",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QuPath",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "VISIOPHARM",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "VisioPharm",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "10X GENOMICS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Loupe Browser",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Partek turning data into discovery",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Partek Flow",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "varsome",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Varsome",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eagle genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "e[exploration]",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ROSALIND",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Rosalind Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Geneious + SnapGene",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ADVAITA next generation bioinformatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "iVariantGuide",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CytoReason",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CytoReason Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "basepair",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Basepair Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ANACONDA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Anaconda Enterprise",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BROAD INSTITUTE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Terra",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CODE OCEAN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Code Ocean Computational Workbench",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus Apollo",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus Titan",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "globus genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Globus Genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "hypahub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "HypaHub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LatchBio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Latch Pods",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "METACELL",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MetaCell Cloud Workspce",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SevenBridges",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Seven Bridges Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "watershed",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Omics Bench",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "nuvolos",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Nuvolos",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DeepOrigin",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ComputeBench",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ENABLE MEDICINE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Enable BIOS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ONTOLOGIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Tool Runner",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "databricks",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Databricks Lakehouse Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Saturn Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Saturn Cloud",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ganymede Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BROAD INSTITUTE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GATK (Genome Analysis Toolkit)",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Baker Lab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Rosetta",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "hail",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Hail Query + Batcj",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "NIH",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BLAST (Basic Local Alignment Search Tool)",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "plotly",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Plotly",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GitHub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GitHub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ANACONDA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Conda",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CODE OCEAN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Code Ocean Hub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "nextflow",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "NextFlow",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Open Targets",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenTargets",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RECURSION",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Recursion RxRx Datasets",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "varsome",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Varsome",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "JGI JOINT GENOME INSTITUTE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Integrated Microbial Genomes (IMG)",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "EMBL-EBI",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Ensembl",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "UniProt",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "UniProt",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "EMBL-EBI",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Pfam",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNA nexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "UK Biobank Research Analysis",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eagle genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "e[marketplace]",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "lucidata",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OmixAtlas",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ENABLE MEDICINE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Enable Operating System",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Carcinogenicity Database",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QIAGEN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OmicSoft Land Explorer",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Racho biosciences The Data Science Services Company",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RanchoKb",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "varsome",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Varsome Premium",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ADVAITA next generation bioinformatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "iBioGuide",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BioBox",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Knowledge Graph Search",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenEye SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Curated Databases",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Kaleidoscope Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Clarivate",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Cortellis Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GlobalData",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Pharma Intelligence",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Evaluate Pharma",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Evaluate Pharma",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "lifebit",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lifebit REAL",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CDD PharmaKB",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ChemCurator",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Content Databases",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Vitic",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "NIH",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ImageJ",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QuPath",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QuPath",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CellProfiler cell image analysis software",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CellProfiler",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Quorum",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Volocity",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OXFORD INSTRUMENTS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Imaris",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Core Life Analytics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CPUltra + StratoMinerR",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "indica labs",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Halo AI",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "VISIOPHARM",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "VisioPharm",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ENABLE MEDICINE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Enable BIOS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BROAD INSTITUTE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Terra",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus Titan",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNASTACK",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Workbench",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "eagle genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "e[SDK]",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Google",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Google Cloud Composer",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "hypahub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "HypaHub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LatchBio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Latch SDK",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "lifebit",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LifeBit CloudOS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Microsoft",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Microsoft Genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "redun",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "redun",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "seqeralabs",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Nextflow Tower",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SevenBridges",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RHEO",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "snakemake",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Snakemake",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ONTOLOGIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Tool Runner",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "arivis a ZEISS company",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "arivis Hub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arvados",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Arvados Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BioBox",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Workbench",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "10X GENOMICS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "10x Genomics Cloud Analysis",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "amazon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "AWS Omics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Datirium",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SciDap",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DNAnexus Apollo",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Drift Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Drift Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "globus genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Globus Genomics (also galaxy)",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "illumina",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Illumina GRAGEN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "jmp",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "JMP Genomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LatchBio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Latch Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Partek turning data into discovery",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Partek Flow",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QIAGEN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CLC Genomics Workbench",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ROSALIND",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Rosalind Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SevenBridges",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GRAF",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "basepair",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Basepair Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "evotec",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Evotec PanHunter",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "FORM BIO",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Form Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Galaxy",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Galaxy",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "pluto",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Pluto Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SevenBridges",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ARIA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "NETRIAS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Netrias Active Discovery Engine",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "magna labs INFORMATICS OPS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Miqa",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SNTHESIS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Snthesis platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "lucidata",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Polly",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MANIFOLD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Manifold.ai",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Rancho biosciences The Data Science Services Company",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Data Curation",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BC Platforms",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BC Platforms",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "NETRIAS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Netrias PathEngine",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ACD / LABS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ChemSketch",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Marvin",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemicalize",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemical naming and structure Chemaxon conversion tool",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemical Structure Representation Toolkit",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM Chemist Pro",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "iMolvie",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "LigPrep",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ConfGen",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Design Hub",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "JKlustor",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Markush Editor",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Core Hopping",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemify",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemify.io",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Effiris",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Jaguar",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "AutoQSAR",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Active learning Applications",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DeepAutoQSAR",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Field-Based QSAR",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Zeneth",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Reactor",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemical Computing Group",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molecular Operating Environment",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Materials Studio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenEye SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Small Molecule Discovery Suite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Baker Lab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Rosetta",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RBVI",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "UCSF Chimera",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MIT JAMEEL CLINIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DiffDock",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Discovery Studio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM-VLS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM-PRO",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Glide",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemical Computing Group",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molecular Operating Environment",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenEye SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Gigadock & Gigadock Wrap",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BiosimAI X DeepOrigin",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BiosimDock / BiosimScreen",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenMM",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenMM",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GROMACS FAST.FLEXIBLE.FREE",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GROMACS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "AMBER",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "AMBER",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemical Computing Group",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molecular Operating Environment",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenEye SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Orion Molecular Design Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Desmond",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "IFD-MD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Discovery Studio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BioLuminate",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "TandemAI",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "TandemAI",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OPEN BIOSIM",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BioSimSpace",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BiosimAI X DeepOrigin",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BiosimMD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "JKlustor",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Screen Suite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemical Computing Group",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molecular Operating Environment",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemotargets",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CLARITY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Effiris",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM-VLS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Clide",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Phase",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenEye SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Small Molecule Discovery Suite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BiosimAI X DeepOrigin",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BiosimScreen",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemical Computing Group",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molecular Operating Environment",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PyMOL",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "iMolview",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "RBVi",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "UCSF Chimera",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sphinx Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sphinx Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PDBe Protein Data Bank in Europe, Elixir CZECH REPUBLIC, CEITEC Central European Institute of Technology BRNO | CZECH REPUBLIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molstar",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM-Pro",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Baker Lab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Rosetta",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DeepMind",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "AlphaFold",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Prime",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Open Molecular Software Foundation",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenFold",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Meta",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ESMFold",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BiosimAI X DeepOrigin",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "AWSEM 2.0",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Benchling",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Plasmid/Construct Design Tool",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Dotmatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Geneious + SnapGene",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GENEMOD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molecular Biology",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ICM Bio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "sapio sciences",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sapio ELN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "teselagen BIOTECHNOLOGY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Open Vector Editor",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemical Computing Group",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Molecular Operating Environment",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Baker Lab",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Rosetta",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Mirabilis",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SimulationsPlus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DDDPlus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "OpenEye SCIENTIFIC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Formulations Suite",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA COSMOtherm",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemotargets",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CLARITY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Clarivate",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Cortellis Metacore",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Clarivate",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Drug Discovery Intelligence Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Cellworks",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Computational Omics Biology Model",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "COPASI",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "COPASI (Complex Pathway Simulator)",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QIAGEN",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QIAGEN IPA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ADVAITA next generation bioinformatics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "iBioGuid",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "THINKINGNODELIFE.ai Unleashing the Power of AI Reasoning to Understand Life",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ThinkingNode Life Science",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Meteor Nexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "METACELL",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MetaCell Pharma",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "seachange PHARMACEUTICALS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SEAware",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SimulationPlus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ADMET-Predictor",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ACD / Labs",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Percepta Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemaxon",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Compliance Checker & ChemTS",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemotargets",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CLARITY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Derek Nexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Vitic",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Zeneth",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "molsoft molecules in silico",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MolScreen",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SimulationsPlus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DILIsym QST",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Clarivate",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Drug Discovery Intelligence Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CytoReason",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CytoReason Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "IS IT",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "o2S2PARC",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SP OPEN SYSTEMS PHARMACOLOGY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PK-SIM",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CERTARA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Certara Phoenix",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SimulationsPlus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "MonolixSuite PK/PD",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SP OPEN SYSTEMS PHARMACOLOGY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "PK-SIM",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "ACD / Labs",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Percepta Platform",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CERTARA",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Certara Simcyp",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA COSMOtherm",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Effiris",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Schr\u00f6dinger",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "QikProp",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Chemotargets",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "CLARITY",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Lhasa Limited",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Sarah Nexus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "DASSAULT SYSTEMES",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "BIOVIA Discovery Studio",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
                                     "company": "Immunetrics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Immunetrics Thales",
-                                    "product": "",
+                                    "product": "Immunetrics Thales",
                                     "company_url": null,
                                     "product_url": null,
                                     "image_url": null
                                 },
                                 {
                                     "company": "Physiomics",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "Virtual Tumour",
-                                    "product": "",
+                                    "product": "Virtual Tumour",
                                     "company_url": null,
                                     "product_url": null,
                                     "image_url": null
                                 },
                                 {
                                     "company": "ROSA",
-                                    "product": "",
+                                    "product": "PhysioPD Research Platform",
                                     "company_url": null,
                                     "product_url": null,
                                     "image_url": null
-                                },
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Organ-Specific",
+                            "products": [
                                 {
-                                    "company": "PhysioPD Research Platform",
-                                    "product": "",
+                                    "company": "SimulationsPlus",
+                                    "product": "GastroPlus PBBM/PBPK",
                                     "company_url": null,
                                     "product_url": null,
                                     "image_url": null
                                 },
                                 {
                                     "company": "SimulationsPlus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "GastroPlus PBBM/PBPK",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "SimulationsPlus",
-                                    "product": "",
-                                    "company_url": null,
-                                    "product_url": null,
-                                    "image_url": null
-                                },
-                                {
-                                    "company": "NAFLDsym QSP",
-                                    "product": "",
+                                    "product": "NAFLDsym QSP",
                                     "company_url": null,
                                     "product_url": null,
                                     "image_url": null

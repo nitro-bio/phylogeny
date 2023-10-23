@@ -1,6 +1,8 @@
-from dataclasses import dataclass, field
-from typing import List, Optional
 import json
+from pprint import pprint
+import re
+from dataclasses import dataclass, field, asdict
+from typing import List, Optional
 
 @dataclass
 class Product:
@@ -32,69 +34,43 @@ class Tree:
     description: str
     categories: List[Category]
 
-def parse_raw_txt(file_path: str) -> Tree:
-    with open(file_path, "r") as f:
-        lines = f.readlines()
-
-    categories = []
-    current_group = None
+def parse_text(input_text):
+    parsed_data = []
     current_category = None
+    current_group = None
     current_subgroup = None
-    current_products = []
-    
+
+    lines = input_text.strip().split("\n")
+
     for line in lines:
-        line = line.strip()
-        
         if line.startswith("Category:"):
             if current_category:
-                categories.append(current_category)
-            current_category = Category(title=line[10:].strip(), groups=[])
-        
+                parsed_data.append(current_category)
+            current_category = Category(line.split("Category:")[1].strip(), [])
         elif line.startswith("Group:"):
-            if not current_category:
-                raise ValueError("Group found before category")
-            if current_group:
-                current_category.groups.append(current_group)
-            current_group = Group(title=line[7:].strip(), description="", subgroups=[])
-        
+            current_group = Group(line.split("Group:")[1].strip(), "", [])
+            current_category.groups.append(current_group)
         elif line.startswith("Description:"):
-            if current_group:
-                current_group.description = line[13:].strip()
-        
+            current_group.description = line.split("Description:")[1].strip()
         elif line.startswith("Subgroup:"):
-            if not current_group:
-                raise ValueError("Subgroup found before group")
+            current_subgroup = Subgroup(line.split("Subgroup:")[1].strip(), [])
+            current_group.subgroups.append(current_subgroup)
+        elif line.startswith("Company:"):
+            company, product = re.search(r"Company: (.+) \| Product: (.+)", line).groups()
+            current_subgroup.products.append(Product(company.strip(), product.strip()))
 
-            if current_subgroup:
-                current_group.subgroups.append(current_subgroup)
-            current_subgroup = Subgroup(name=line[10:].strip(), products=[])
-        
-        elif line.startswith("- [ ]"):
-            parts = line[5:].strip().split("- [ ]")
-            company = parts[0].strip()
-            product = parts[1].strip() if len(parts) > 1 else ""
-            current_products.append(Product(company, product))
-    
-    if current_subgroup:
-        if not current_group:
-            raise ValueError("Subgroup found before group")
-
-        current_subgroup.products = current_products
-        current_group.subgroups.append(current_subgroup)
-    
-    if current_group:
-        if not current_category:
-            raise ValueError("Group found before category")
-
-        current_category.groups.append(current_group)
-        
     if current_category:
-        categories.append(current_category)
-        
-    return Tree(title="Your Title", description="Your Description", categories=categories)
+        parsed_data.append(current_category)
+    return Tree("Your Title", "Your Description", parsed_data)
 
 if __name__ == "__main__":
-    tree = parse_raw_txt("raw.txt")
-    json_output = json.dumps(tree, default=lambda x: x.__dict__, indent=4)
-    with open("raw.ts", "w") as f:
-        f.write(json_output)
+    with open('./raw.txt', 'r') as f:
+        input_text = f.read()
+        
+    parsed_data = parse_text(input_text)
+
+    # Serialize the Tree object to JSON
+    with open('raw.ts', 'w') as f:
+        json.dump(asdict(parsed_data), f, indent=4)
+
+    pprint(asdict(parsed_data))
