@@ -10,6 +10,12 @@ export const Tree = () => {
         className="grid w-full grid-cols-1 gap-8 lg:grid-cols-2"
         id="root"
       >
+        <header className="lg:col-span-2">
+          <h1 className="text-6xl font-semibold text-zinc-200">
+            {parsed.title}
+          </h1>
+          <h2 className="text-5xl text-zinc-200">{parsed.description}</h2>
+        </header>
         {parsed.categories.map((category: Category) => {
           return (
             <Category

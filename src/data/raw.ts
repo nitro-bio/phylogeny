@@ -1,6 +1,6 @@
 export const raw = {
   title: "Life Science Landscape",
-  description: "Your Description",
+  description: "foo bar baz quux",
   categories: [
     {
       title: "Experiment",
