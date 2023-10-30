@@ -41,7 +41,7 @@ const Category = ({
       <h2 className="pb-12 text-4xl font-semibold text-white/90">
         {category.title}
       </h2>
-      <div className="grid grid-cols-2 content-center gap-4">
+      <div className="columns-lg space-y-8">
         {category.groups.map((group: Group) => {
           return <Group group={group} key={group.title} parentIds={idChain} />;
         })}
@@ -50,11 +50,20 @@ const Category = ({
   );
 };
 
-const Group = ({ group, parentIds }: { group: Group; parentIds: string[] }) => {
+const Group = ({
+  group,
+  parentIds,
+}: {
+  group: Group;
+  parentIds: string[];
+  className?: string;
+}) => {
   const idChain = [...parentIds, group.title];
   return (
     <div
-      className="h-fit rounded-md bg-white/20 px-4 py-2 "
+      className={classNames(
+        "break-inside-avoid rounded-md bg-white/20 px-4 py-2",
+      )}
       id={idChain.join("-")}
     >
       <h3 className="w-full pb-8 text-center text-2xl font-semibold text-white/90">
@@ -84,10 +93,7 @@ const Subgroup = ({
 }) => {
   const idChain = [...parentIds, subgroup.name];
   return (
-    <div
-      className="grid h-fit rounded-md border px-2 py-1"
-      id={idChain.join("-")}
-    >
+    <div className="grid rounded-md border px-2 py-1" id={idChain.join("-")}>
       <h4 className="w-full pb-4 text-left text-xl font-semibold text-white/90">
         {subgroup.name}
       </h4>
