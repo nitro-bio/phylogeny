@@ -1,9 +1,9 @@
-import { Tree } from "@/components/Tree/Tree";
+import { Landscape } from "@/components/Landscape";
 
 export default function Home() {
   return (
     <main>
-      <Tree />
+      <Landscape />
     </main>
   );
 }

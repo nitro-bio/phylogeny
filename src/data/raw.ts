@@ -3514,7 +3514,7 @@ export const raw = {
     },
     {
       title: "Simulate",
-      className: "bg-emerald-500 col-span-2",
+      className: "bg-emerald-500",
       groups: [
         {
           title: "Small Molecule Structure/Properties",
