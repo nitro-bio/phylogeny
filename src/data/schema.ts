@@ -24,12 +24,14 @@ export type Group = z.infer<typeof GroupSchema>;
 
 const CategorySchema = z.object({
   title: z.string(),
+  className: z.string().optional(),
   groups: z.array(GroupSchema),
 });
 export type Category = z.infer<typeof CategorySchema>;
 
 export const TreeSchema = z.object({
   title: z.string(),
+  className: z.string().optional(),
   description: z.string(),
   categories: z.array(CategorySchema),
 });
