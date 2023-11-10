@@ -13,10 +13,17 @@ import {
   Tree,
 } from "../data/schema";
 import { z } from "zod";
+import DownloadButtons from "./DownloadButtons";
 
 export const Landscape = () => {
   const [search, setSearch] = useState<string | null>(null);
   const filteredTree = getFilteredTree(parsed, search);
+  const getFilename = () => {
+    if (search === null) {
+      return "full-landscape";
+    }
+    return `landscape-${search}`;
+  };
   return (
     <>
       <article className="grid grid-cols-2 gap-8" id="root">
@@ -26,8 +33,9 @@ export const Landscape = () => {
           </h1>
           <h2 className="text-5xl text-zinc-200">{parsed.description}</h2>
         </header>
-        <div className="col-span-2">
+        <div className="col-span-2 flex justify-between gap-8 ">
           <SearchBar search={search} setSearch={setSearch} />
+          <DownloadButtons data={filteredTree} fileName={getFilename()} />
         </div>
         {filteredTree.categories.map((category: Category) => {
           return (
@@ -138,15 +146,13 @@ const SearchBar = ({
   setSearch: (search: string) => void;
 }) => {
   return (
-    <div className="grid grid-cols-1 gap-8 sm:grid-cols-2">
-      <input
-        type="text"
-        placeholder="Search for products, companies, subgroups, groups, or categories..."
-        className="input input-bordered"
-        onChange={(e) => setSearch(e.target.value)}
-        value={search ?? ""}
-      />
-    </div>
+    <input
+      type="text"
+      placeholder="Search for products, companies, subgroups, groups, or categories..."
+      className="input input-bordered flex-1"
+      onChange={(e) => setSearch(e.target.value)}
+      value={search ?? ""}
+    />
   );
 };
 
