@@ -1,3 +1,4 @@
+import Script from "next/script";
 import "./globals.css";
 import type { Metadata } from "next";
 
@@ -13,6 +14,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en" className="">
+      <head>
+        <Script
+          data-goatcounter={"https://phylogeny.goatcounter.com/count"}
+          data-goatcounter-settings='{"allow_local": false}'
+          src="//gc.zgo.at/count.js"
+        />
+      </head>
       <body className="min-h-screen w-full bg-zinc-800 px-4 py-2 text-zinc-100">
         {children}
       </body>
