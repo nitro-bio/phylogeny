@@ -15,6 +15,8 @@ import {
 import { z } from "zod";
 import DownloadButtons from "./DownloadButtons";
 import Link from "next/link";
+import { InformationCircleIcon } from "@heroicons/react/24/outline";
+import { Popover, PopoverContent, PopoverTrigger } from "./ui/popover";
 
 export const Landscape = () => {
   const [search, setSearch] = useState<string | null>(null);
@@ -140,8 +142,8 @@ const getFilteredProduct = (product: Product, search: string | null) => {
   }
   const shouldRender =
     product.company.toLowerCase().includes(search.toLowerCase()) ||
-    product.product.toLowerCase().includes(search.toLowerCase())
-    
+    product.product.toLowerCase().includes(search.toLowerCase());
+
   if (!shouldRender) {
     return null;
   }
@@ -185,7 +187,7 @@ const CategoryNode = ({
       )}
       id={idChain.join("-")}
     >
-      <h2 className="pb-12 text-4xl font-semibold text-white/90">
+      <h2 className="flex items-center gap-2 pb-12 text-4xl font-semibold text-white/90">
         {category.title}
       </h2>
       <div className="columns-lg space-y-8">
@@ -222,8 +224,16 @@ const GroupNode = ({
       )}
       id={idChain.join("-")}
     >
-      <h3 className="w-full pb-8 text-center text-2xl font-semibold text-white/90">
+      <h3 className="flex w-full items-center gap-2 pb-8 text-center text-2xl font-semibold text-white/90">
         {group.title}
+        <Popover>
+          <PopoverTrigger>
+            <InformationCircleIcon className="h-4 w-4 text-zinc-100" />
+          </PopoverTrigger>
+          <PopoverContent>
+            <p className="text-zinc-800">{group.description}</p>
+          </PopoverContent>
+        </Popover>
       </h3>
       <div className="flex flex-col gap-4">
         {group.subgroups.map((subgroup: Subgroup) => {
@@ -296,8 +306,8 @@ const ProductNode = ({
       <p className="text-center text-sm">{product.product}</p>
       {searchedAndFound && (
         <>
-          <div className="absolute -right-2 -top-2 h-4 w-4 animate-ping rounded-full bg-zinc-300" />
-          <div className="absolute -right-1.5 -top-1.5 h-3 w-3  rounded-full bg-zinc-300" />
+          <div className="absolute -right-2 -top-2 h-4 w-4 animate-ping rounded-full bg-amber-300" />
+          <div className="absolute -right-1.5 -top-1.5 h-3 w-3  rounded-full bg-amber-300" />
         </>
       )}
     </div>

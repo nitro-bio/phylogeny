@@ -1,5 +1,5 @@
 export const raw = {
-  title: "Life Science Landscape",
+  title: "Life Science Software Landscape",
   description: "Built by Nitro Bio",
   categories: [
     {
@@ -4602,7 +4602,7 @@ export const raw = {
         },
       ],
       title: "Simulate",
-      className: "border border-emerald-500 bg-emerald-500/20 col-span-2"
+      className: "border border-emerald-500 bg-emerald-500/20 col-span-2",
     },
   ],
 };
