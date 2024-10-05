@@ -4,8 +4,7 @@ export const raw = {
   categories: [
     {
       title: "Experiment",
-
-      className: "bg-rose-500 col-span-1",
+      className: "border border-rose-500 bg-rose-500/20 col-span-1",
       groups: [
         {
           title: "ELN",
@@ -2069,7 +2068,7 @@ export const raw = {
     },
     {
       title: "Analyze",
-      className: "bg-sky-500 col-span-1",
+      className: "border border-sky-500 bg-sky-500/20 col-span-1",
       groups: [
         {
           description:
@@ -4603,6 +4602,7 @@ export const raw = {
         },
       ],
       title: "Simulate",
+      className: "border border-emerald-500 bg-emerald-500/20 col-span-2"
     },
   ],
 };

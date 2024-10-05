@@ -98,6 +98,10 @@ const getFilteredGroup = (group: Group, search: string | null) => {
   if (search === null) {
     return group;
   }
+  if (group.title.toLowerCase().includes(search.toLowerCase())) {
+    return group;
+  }
+
   const subgroups = group.subgroups
     .map((subgroup: Subgroup) => {
       return getFilteredSubgroup(subgroup, search);
@@ -136,7 +140,8 @@ const getFilteredProduct = (product: Product, search: string | null) => {
   }
   const shouldRender =
     product.company.toLowerCase().includes(search.toLowerCase()) ||
-    product.product.toLowerCase().includes(search.toLowerCase());
+    product.product.toLowerCase().includes(search.toLowerCase())
+    
   if (!shouldRender) {
     return null;
   }
