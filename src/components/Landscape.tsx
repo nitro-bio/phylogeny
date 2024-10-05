@@ -14,6 +14,7 @@ import {
 } from "../data/schema";
 import { z } from "zod";
 import DownloadButtons from "./DownloadButtons";
+import Link from "next/link";
 
 export const Landscape = () => {
   const [search, setSearch] = useState<string | null>(null);
@@ -31,7 +32,11 @@ export const Landscape = () => {
           <h1 className="text-6xl font-semibold text-zinc-200">
             {parsed.title}
           </h1>
-          <h2 className="text-5xl text-zinc-200">{parsed.description}</h2>
+          <Link href="https://nitro.bio/">
+            <h2 className="text-xl text-emerald-200 hover:underline">
+              {parsed.description}
+            </h2>
+          </Link>
         </header>
         <div className="col-span-2 flex justify-between gap-8 ">
           <SearchBar search={search} setSearch={setSearch} />
@@ -301,12 +306,12 @@ const Edges = ({ search }: { search: string | null }) => {
     label: string;
   }
   const edges: Edge[] = [
-    {
-      startId: "root-Experiment-ELN",
-      endId:
-        "root-Analyze-Knowledge or Data/ Metadata Management-General Research",
-      label: "foo bar baz-qux",
-    },
+    // {
+    //   startId: "root-Experiment-ELN",
+    //   endId:
+    //     "root-Analyze-Knowledge or Data/ Metadata Management-General Research",
+    //   label: "foo bar baz-qux",
+    // },
   ];
 
   return (
